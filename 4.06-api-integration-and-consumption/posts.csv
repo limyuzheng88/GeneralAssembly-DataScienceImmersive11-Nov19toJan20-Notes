@@ -1,0 +1,993 @@
+,all_awardings,allow_live_comments,approved_at_utc,approved_by,archived,author,author_flair_background_color,author_flair_css_class,author_flair_richtext,author_flair_template_id,author_flair_text,author_flair_text_color,author_flair_type,author_fullname,author_patreon_flair,awarders,banned_at_utc,banned_by,can_gild,can_mod_post,category,clicked,content_categories,contest_mode,created,created_utc,discussion_type,distinguished,domain,downs,edited,gilded,gildings,hidden,hide_score,id,is_crosspostable,is_meta,is_original_content,is_reddit_media_domain,is_robot_indexable,is_self,is_video,likes,link_flair_background_color,link_flair_css_class,link_flair_richtext,link_flair_template_id,link_flair_text,link_flair_text_color,link_flair_type,locked,media,media_embed,media_only,mod_note,mod_reason_by,mod_reason_title,mod_reports,name,no_follow,num_comments,num_crossposts,num_reports,over_18,parent_whitelist_status,permalink,pinned,post_hint,preview,pwls,quarantine,removal_reason,removed_by,report_reasons,saved,score,secure_media,secure_media_embed,selftext,selftext_html,send_replies,spoiler,steward_reports,stickied,subreddit,subreddit_id,subreddit_name_prefixed,subreddit_subscribers,subreddit_type,suggested_sort,thumbnail,thumbnail_height,thumbnail_width,title,total_awards_received,ups,url,user_reports,view_count,visited,whitelist_status,wls
+0,[],False,,,False,AutoModerator,#d0fffd,,"[{'e': 'text', 't': '🤖'}]",326005ee-9cf2-11e8-8b1f-0e8f9a199476,🤖,dark,richtext,t2_6l4z3,False,[],,,False,False,,False,,False,1574600467.0,1574571667.0,,moderator,self.boardgames,0,False,0,{},False,False,e0u3r5,False,False,False,False,True,True,False,,#4a4b4a,,"[{'e': 'text', 't': 'Daily Game Recs'}]",01476204-cd40-11e7-a8ba-0e829f432fc8,Daily Game Recs,light,richtext,False,,{},False,,,,[],t3_e0u3r5,True,112,1,,False,all_ads,/r/boardgames/comments/e0u3r5/rboardgames_daily_discussion_and_game/,False,self,"{'images': [{'source': {'url': 'https://external-preview.redd.it/7yHEWiJ_vfByWex8mkJVq4vvKRYE0jdAlV3jWkrDfdU.jpg?auto=webp&amp;s=cfde1a677280f105ebb03831eb4784f8daf5a13e', 'width': 1380, 'height': 776}, 'resolutions': [{'url': 'https://external-preview.redd.it/7yHEWiJ_vfByWex8mkJVq4vvKRYE0jdAlV3jWkrDfdU.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=085768970d6066a009a60e306c8d0d42754f1300', 'width': 108, 'height': 60}, {'url': 'https://external-preview.redd.it/7yHEWiJ_vfByWex8mkJVq4vvKRYE0jdAlV3jWkrDfdU.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=3c71c483d3c6817ccfb8bbaaf0878c83265410ab', 'width': 216, 'height': 121}, {'url': 'https://external-preview.redd.it/7yHEWiJ_vfByWex8mkJVq4vvKRYE0jdAlV3jWkrDfdU.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=8b6967883fb911cf8083b4aec359cb93def9b66d', 'width': 320, 'height': 179}, {'url': 'https://external-preview.redd.it/7yHEWiJ_vfByWex8mkJVq4vvKRYE0jdAlV3jWkrDfdU.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=b6b4484874cba222dd3c91e39fb7fd3f79364a7c', 'width': 640, 'height': 359}, {'url': 'https://external-preview.redd.it/7yHEWiJ_vfByWex8mkJVq4vvKRYE0jdAlV3jWkrDfdU.jpg?width=960&amp;crop=smart&amp;auto=webp&amp;s=dae55c7bc5ff5568a0d65113aa1972a58aeb91c8', 'width': 960, 'height': 539}, {'url': 'https://external-preview.redd.it/7yHEWiJ_vfByWex8mkJVq4vvKRYE0jdAlV3jWkrDfdU.jpg?width=1080&amp;crop=smart&amp;auto=webp&amp;s=ee4c5a34f6f56f00491c33b6935f9a8abd576318', 'width': 1080, 'height': 607}], 'variants': {}, 'id': 'jGkreZbjJMo-H83aiVQSzuh6t80pUM1vmZmn7EiF7zY'}], 'enabled': False}",6,False,,,,False,16,,{},"**Welcome to /r/boardgames Daily Discussion and Game Recommendations**
+
+This is meant to be a place where you can ask any and all questions relating to the board gaming world: general or specific game recommendations, rule clarifications, definitions of terms/acronyms, and other quick questions that might not warrant their own post. You can see previous versions of this post [here](https://www.reddit.com/r/boardgames/search?q=%22%2Fr%2Fboardgames+Daily+Discussion+and+Game+Recommendations%22&amp;restrict_sr=on&amp;sort=new&amp;t=all). 
+
+If you are seeking game recommendations you will get better responses if you give us enough background to help you. You can use [this template](https://www.reddit.com/r/boardgames/wiki/personalized-game-recommendation-template-no-explainer) to do so. [Here](https://www.reddit.com/r/boardgames/wiki/personalized-game-recommendation-template) is a version with explanations of what we're looking for.  
+
+Help people identify your game suggestions easily by bolding the game names. It's easy! Just surround the game name with two asterisks (\*\*) and it will show up bold. If you reply to any comment that has a game name in **bold** with ""**/u/r2d8 getparentinfo**"", one of our robots will tell you more about the game
+
+Just remember that this is a community full of awesome, helpful people, and feel free to ask your questions whatever they may be. As always, keep it civil and remember what the downvote button is actually for.
+
+
+Lastly, here are some of the resources available at /r/boardgames:
+
+* If you are new here, be sure to check out our [Community Guidelines](https://www.reddit.com/r/boardgames/wiki/community)
+* If you are looking for a game recommendation, make sure to read our [What Should I Get Wiki](https://www.reddit.com/r/boardgames/wiki/wsig)
+* If asking people for recommendations is too interactive: [The Automated Recommendations Robot is here for you](https://www.reddit.com/r/boardgames/wiki/wsig#wiki_ask_a_robot_for_a_list_of_recommendations).
+* For recommendations that take accessibility concerns into account, check out [MeepleLikeUs](https://meeplelikeus.co.uk/recommender-beta/) and their recommender.
+* Also take a look at our [Wiki Index](https://www.reddit.com/r/boardgames/wiki/index) for various other resources and information.
+* Any questions about game design can be answered here, but also visit /r/tabletopgamedesign
+* Any discussions about the subreddit itself should be contained in /r/metaboardgames
+
+*If you use the boardgamerecommender bot in this thread, please reply to the stickied top comment in order to avoid cluttering up the posts.*
+
+Happy gaming!","&lt;!-- SC_OFF --&gt;&lt;div class=""md""&gt;&lt;p&gt;&lt;strong&gt;Welcome to &lt;a href=""/r/boardgames""&gt;/r/boardgames&lt;/a&gt; Daily Discussion and Game Recommendations&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;This is meant to be a place where you can ask any and all questions relating to the board gaming world: general or specific game recommendations, rule clarifications, definitions of terms/acronyms, and other quick questions that might not warrant their own post. You can see previous versions of this post &lt;a href=""https://www.reddit.com/r/boardgames/search?q=%22%2Fr%2Fboardgames+Daily+Discussion+and+Game+Recommendations%22&amp;amp;restrict_sr=on&amp;amp;sort=new&amp;amp;t=all""&gt;here&lt;/a&gt;. &lt;/p&gt;
+
+&lt;p&gt;If you are seeking game recommendations you will get better responses if you give us enough background to help you. You can use &lt;a href=""https://www.reddit.com/r/boardgames/wiki/personalized-game-recommendation-template-no-explainer""&gt;this template&lt;/a&gt; to do so. &lt;a href=""https://www.reddit.com/r/boardgames/wiki/personalized-game-recommendation-template""&gt;Here&lt;/a&gt; is a version with explanations of what we&amp;#39;re looking for.  &lt;/p&gt;
+
+&lt;p&gt;Help people identify your game suggestions easily by bolding the game names. It&amp;#39;s easy! Just surround the game name with two asterisks (**) and it will show up bold. If you reply to any comment that has a game name in &lt;strong&gt;bold&lt;/strong&gt; with &amp;quot;&lt;strong&gt;&lt;a href=""/u/r2d8""&gt;/u/r2d8&lt;/a&gt; getparentinfo&lt;/strong&gt;&amp;quot;, one of our robots will tell you more about the game&lt;/p&gt;
+
+&lt;p&gt;Just remember that this is a community full of awesome, helpful people, and feel free to ask your questions whatever they may be. As always, keep it civil and remember what the downvote button is actually for.&lt;/p&gt;
+
+&lt;p&gt;Lastly, here are some of the resources available at &lt;a href=""/r/boardgames""&gt;/r/boardgames&lt;/a&gt;:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;If you are new here, be sure to check out our &lt;a href=""https://www.reddit.com/r/boardgames/wiki/community""&gt;Community Guidelines&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;If you are looking for a game recommendation, make sure to read our &lt;a href=""https://www.reddit.com/r/boardgames/wiki/wsig""&gt;What Should I Get Wiki&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;If asking people for recommendations is too interactive: &lt;a href=""https://www.reddit.com/r/boardgames/wiki/wsig#wiki_ask_a_robot_for_a_list_of_recommendations""&gt;The Automated Recommendations Robot is here for you&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;For recommendations that take accessibility concerns into account, check out &lt;a href=""https://meeplelikeus.co.uk/recommender-beta/""&gt;MeepleLikeUs&lt;/a&gt; and their recommender.&lt;/li&gt;
+&lt;li&gt;Also take a look at our &lt;a href=""https://www.reddit.com/r/boardgames/wiki/index""&gt;Wiki Index&lt;/a&gt; for various other resources and information.&lt;/li&gt;
+&lt;li&gt;Any questions about game design can be answered here, but also visit &lt;a href=""/r/tabletopgamedesign""&gt;/r/tabletopgamedesign&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Any discussions about the subreddit itself should be contained in &lt;a href=""/r/metaboardgames""&gt;/r/metaboardgames&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;em&gt;If you use the boardgamerecommender bot in this thread, please reply to the stickied top comment in order to avoid cluttering up the posts.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Happy gaming!&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;",False,False,[],True,boardgames,t5_2qmjp,r/boardgames,2245709,public,new,self,,,"/r/boardgames Daily Discussion and Game Recommendations (November 24, 2019)",0,16,https://www.reddit.com/r/boardgames/comments/e0u3r5/rboardgames_daily_discussion_and_game/,[],,False,all_ads,6
+1,[],False,,,False,QuellSpeller,,18xx,"[{'e': 'text', 't': '18xx'}]",e625c966-18a9-11e7-b8cc-0ec57a8578b8,18xx,dark,richtext,t2_zsamk,False,[],,,False,False,,False,,False,1574306210.0,1574277410.0,,moderator,self.boardgames,0,1574455564.0,0,{},False,False,dz6s2f,False,False,False,False,True,True,False,,,,[],,,dark,text,False,,{},False,,,,[],t3_dz6s2f,False,158,0,,False,all_ads,/r/boardgames/comments/dz6s2f/2019_holiday_gift_megathread/,False,self,"{'images': [{'source': {'url': 'https://external-preview.redd.it/4CwooATCt1T0KSqWvtweM4r3PWjyz3QRDWOZICZjUYI.jpg?auto=webp&amp;s=ab0242b6b852939534be228441287a59ef6609c4', 'width': 1200, 'height': 630}, 'resolutions': [{'url': 'https://external-preview.redd.it/4CwooATCt1T0KSqWvtweM4r3PWjyz3QRDWOZICZjUYI.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=2029a727f3b3289f2c0d6dd4f6c488f71ad50896', 'width': 108, 'height': 56}, {'url': 'https://external-preview.redd.it/4CwooATCt1T0KSqWvtweM4r3PWjyz3QRDWOZICZjUYI.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=bf02f9b4b30b5c02346516f26fa88fd8750ce1cd', 'width': 216, 'height': 113}, {'url': 'https://external-preview.redd.it/4CwooATCt1T0KSqWvtweM4r3PWjyz3QRDWOZICZjUYI.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=0666947b70852ed7de8a083d20d7482428521f03', 'width': 320, 'height': 168}, {'url': 'https://external-preview.redd.it/4CwooATCt1T0KSqWvtweM4r3PWjyz3QRDWOZICZjUYI.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=b0c39403bc2c9d37c7dd8f709bec4599492e790a', 'width': 640, 'height': 336}, {'url': 'https://external-preview.redd.it/4CwooATCt1T0KSqWvtweM4r3PWjyz3QRDWOZICZjUYI.jpg?width=960&amp;crop=smart&amp;auto=webp&amp;s=b6e44c5c6e0be99f0cc7df161d2644120237a0ad', 'width': 960, 'height': 504}, {'url': 'https://external-preview.redd.it/4CwooATCt1T0KSqWvtweM4r3PWjyz3QRDWOZICZjUYI.jpg?width=1080&amp;crop=smart&amp;auto=webp&amp;s=14c6b4905bbd1821ab854e48a68ae64c42a7c583', 'width': 1080, 'height': 567}], 'variants': {}, 'id': 'VeoiDILEHt6m_4d7r16w_qSYq4V61aqotJES3YV5CTU'}], 'enabled': False}",6,False,,,,False,116,,{},"It's that time of the year again, holiday shopping time! Remember you can always use the [Daily Discussion and Game Recommendations thread](https://www.reddit.com/r/boardgames/search?q=Daily+discussion+and+game+recommendations&amp;restrict_sr=on&amp;include_over_18=on&amp;sort=new&amp;t=all) to get recommendations for your specific scenario, but below will be some general gift ideas to get you started! Also, if you're gifting to a board gamer, you can ask them for their BGG username and go to their profile (at https://boardgamegeek.com/user/BGGUSERNAME) to see if they have anything listed under their Wishlist!
+
+Top level comments are categories and price ranges. Post suggestions as comments in the threads.
+
+In addition to the recommendations here, the following are some links to different holiday gift guides for this year. If you see guides shared, please link them as a response to [this comment](https://www.reddit.com/r/boardgames/comments/dz6s2f/2019_holiday_gift_megathread/f85ky3n/) so I can add them to the post.
+
+* [Ars Technica 2018 Gift Guide](https://arstechnica.com/gaming/2018/12/ars-technicas-ultimate-board-game-buyers-guide-2018-edition/)
+* [Light](https://www.reddit.com/r/boardgames/comments/dtmzq4/too_early_for_a_list_of_christmas_gift_ideas/f6xlwds/), [medium](https://www.reddit.com/r/boardgames/comments/dwvba5/never_too_early_for_christmas_gift_ideas/f7lonr3/), and [heavy](https://www.reddit.com/r/boardgames/comments/e0595b/never_too_early_for_christmas_gift_ideas/f8byk7s/) suggestions from /u/Bhenji_DvC.
+
+This thread will be stickied through the end of December.","&lt;!-- SC_OFF --&gt;&lt;div class=""md""&gt;&lt;p&gt;It&amp;#39;s that time of the year again, holiday shopping time! Remember you can always use the &lt;a href=""https://www.reddit.com/r/boardgames/search?q=Daily+discussion+and+game+recommendations&amp;amp;restrict_sr=on&amp;amp;include_over_18=on&amp;amp;sort=new&amp;amp;t=all""&gt;Daily Discussion and Game Recommendations thread&lt;/a&gt; to get recommendations for your specific scenario, but below will be some general gift ideas to get you started! Also, if you&amp;#39;re gifting to a board gamer, you can ask them for their BGG username and go to their profile (at &lt;a href=""https://boardgamegeek.com/user/BGGUSERNAME""&gt;https://boardgamegeek.com/user/BGGUSERNAME&lt;/a&gt;) to see if they have anything listed under their Wishlist!&lt;/p&gt;
+
+&lt;p&gt;Top level comments are categories and price ranges. Post suggestions as comments in the threads.&lt;/p&gt;
+
+&lt;p&gt;In addition to the recommendations here, the following are some links to different holiday gift guides for this year. If you see guides shared, please link them as a response to &lt;a href=""https://www.reddit.com/r/boardgames/comments/dz6s2f/2019_holiday_gift_megathread/f85ky3n/""&gt;this comment&lt;/a&gt; so I can add them to the post.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=""https://arstechnica.com/gaming/2018/12/ars-technicas-ultimate-board-game-buyers-guide-2018-edition/""&gt;Ars Technica 2018 Gift Guide&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=""https://www.reddit.com/r/boardgames/comments/dtmzq4/too_early_for_a_list_of_christmas_gift_ideas/f6xlwds/""&gt;Light&lt;/a&gt;, &lt;a href=""https://www.reddit.com/r/boardgames/comments/dwvba5/never_too_early_for_christmas_gift_ideas/f7lonr3/""&gt;medium&lt;/a&gt;, and &lt;a href=""https://www.reddit.com/r/boardgames/comments/e0595b/never_too_early_for_christmas_gift_ideas/f8byk7s/""&gt;heavy&lt;/a&gt; suggestions from &lt;a href=""/u/Bhenji_DvC""&gt;/u/Bhenji_DvC&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;This thread will be stickied through the end of December.&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;",False,False,[],True,boardgames,t5_2qmjp,r/boardgames,2245709,public,,self,,,2019 Holiday Gift Megathread,0,116,https://www.reddit.com/r/boardgames/comments/dz6s2f/2019_holiday_gift_megathread/,[],,False,all_ads,6
+2,[],True,,,False,hakani77,,agricola,"[{'e': 'text', 't': 'Agricola'}]",,Agricola,dark,richtext,t2_525dk,False,[],,,False,False,,False,,False,1574638100.0,1574609300.0,,,self.boardgames,0,False,0,{},False,False,e0zua6,False,False,False,False,True,True,False,,,,[],,,dark,text,False,,{},False,,,,[],t3_e0zua6,False,80,0,,False,all_ads,/r/boardgames/comments/e0zua6/proud_dad_time/,False,self,"{'images': [{'source': {'url': 'https://external-preview.redd.it/TH7FgNjeUUr4JMGBvJ0gyOiheIgKEEA7sLyJRPIcLJ0.jpg?auto=webp&amp;s=b63b82295760f83e0ee8036c23ae2a416b497a5f', 'width': 2000, 'height': 1125}, 'resolutions': [{'url': 'https://external-preview.redd.it/TH7FgNjeUUr4JMGBvJ0gyOiheIgKEEA7sLyJRPIcLJ0.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=e9039b86d2255faac25ba9d264cc70d4c7fab350', 'width': 108, 'height': 60}, {'url': 'https://external-preview.redd.it/TH7FgNjeUUr4JMGBvJ0gyOiheIgKEEA7sLyJRPIcLJ0.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=3a8394b58bed5855c69e669aa5645d7662ffa1f4', 'width': 216, 'height': 121}, {'url': 'https://external-preview.redd.it/TH7FgNjeUUr4JMGBvJ0gyOiheIgKEEA7sLyJRPIcLJ0.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=06f8b384c25deb183f58a3ff90cecc5cb03f1cc3', 'width': 320, 'height': 180}, {'url': 'https://external-preview.redd.it/TH7FgNjeUUr4JMGBvJ0gyOiheIgKEEA7sLyJRPIcLJ0.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=0f8604f85d6258cb434a839ee6d04bea2fdeb880', 'width': 640, 'height': 360}, {'url': 'https://external-preview.redd.it/TH7FgNjeUUr4JMGBvJ0gyOiheIgKEEA7sLyJRPIcLJ0.jpg?width=960&amp;crop=smart&amp;auto=webp&amp;s=ffd0da68f802e01b07204d00eed02718bdeb0c6c', 'width': 960, 'height': 540}, {'url': 'https://external-preview.redd.it/TH7FgNjeUUr4JMGBvJ0gyOiheIgKEEA7sLyJRPIcLJ0.jpg?width=1080&amp;crop=smart&amp;auto=webp&amp;s=5eac5d9e5706e2126ebbb453050c9f6408fd55b8', 'width': 1080, 'height': 607}], 'variants': {}, 'id': 'tZxNLsmKFx7vmT_vv4jM8Yr9XXN_flV7bYQqz2MGK1I'}], 'enabled': False}",6,False,,,,False,1163,,{},Last night my 13 yo son pulled himself away from his Xbox to ask if I would teach him one of my games.... I asked which one and unsurprisingly he chose [Scythe](https://i.imgur.com/eQYIj0n.jpg).  He picked it up very quickly and had a good time with his old man to the point he wants a to start learning the rest of my collection.  So great to have another option for play as my SO is only here every couple of weeks.,"&lt;!-- SC_OFF --&gt;&lt;div class=""md""&gt;&lt;p&gt;Last night my 13 yo son pulled himself away from his Xbox to ask if I would teach him one of my games.... I asked which one and unsurprisingly he chose &lt;a href=""https://i.imgur.com/eQYIj0n.jpg""&gt;Scythe&lt;/a&gt;.  He picked it up very quickly and had a good time with his old man to the point he wants a to start learning the rest of my collection.  So great to have another option for play as my SO is only here every couple of weeks.&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;",True,False,[],False,boardgames,t5_2qmjp,r/boardgames,2245709,public,,self,,,Proud Dad Time,0,1163,https://www.reddit.com/r/boardgames/comments/e0zua6/proud_dad_time/,[],,False,all_ads,6
+3,[],False,,,False,Zelbinian,,san-juan,"[{'e': 'text', 't': 'L-index: 12'}]",815b4d38-18ab-11e7-b3d9-0ed78322c06a,L-index: 12,dark,richtext,t2_37o2w,False,[],,,False,False,,False,,False,1574651459.0,1574622659.0,,,self.boardgames,0,False,0,{},False,False,e12yw4,False,False,False,False,True,True,False,,#7700aa,ksru,"[{'e': 'text', 't': 'KS Roundup'}]",182b2522-cd41-11e7-961e-0e93cb66b0b4,KS Roundup,light,richtext,False,,{},False,,,,[],t3_e12yw4,False,32,0,,False,all_ads,/r/boardgames/comments/e12yw4/kickstarter_roundup_nov_24_2019_30_ending_soon/,False,self,"{'images': [{'source': {'url': 'https://external-preview.redd.it/dIkzT3gDZDJgVWCsSyqjfPIvyjT2MWqDcBR-U7hXCG0.jpg?auto=webp&amp;s=5208d4e8f19d8da21ddd964960fde7b844d6b392', 'width': 560, 'height': 315}, 'resolutions': [{'url': 'https://external-preview.redd.it/dIkzT3gDZDJgVWCsSyqjfPIvyjT2MWqDcBR-U7hXCG0.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=fecd7ea73d53c1b8fe7aa663b0b30ae44d3685b2', 'width': 108, 'height': 60}, {'url': 'https://external-preview.redd.it/dIkzT3gDZDJgVWCsSyqjfPIvyjT2MWqDcBR-U7hXCG0.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=64bf9ed14b6d8eb803ee08a550c9ceefc92a1ca3', 'width': 216, 'height': 121}, {'url': 'https://external-preview.redd.it/dIkzT3gDZDJgVWCsSyqjfPIvyjT2MWqDcBR-U7hXCG0.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=bb24dc5815b00aa052683392d08b9ace89ff0d06', 'width': 320, 'height': 180}], 'variants': {}, 'id': 'rL2RLi9QcQB6VdnBmPwp3ljJ_3rqeKWsfG7ERyImdkc'}], 'enabled': False}",6,False,,,,False,61,,{},"## Ending Soon
+Project Info|Players|Backers|Min / Avg Pledge|Ends|Comments
+:--|:--|:--|:--|:--|:--
+**[Stronghold: Undead (2nd Ed)](https://www.kickstarter.com/projects/portalgames/stronghold-undead/?ref=kicktraq)** An epic strategy game for two players telling the story of a siege // **Has raised $126,525 of $35,000 so far. (~361%) ☑**|2 - 2|1870|$NA / $68|Nov 25| [kicktraq](https://www.kicktraq.com/projects/portalgames/stronghold-undead/?ref=kicktraq) [bgg](https://boardgamegeek.com/boardgame/206593/stronghold-undead-2nd-edition) `#newedition`
+**[Educational Board Games by OjO](https://www.kickstarter.com/projects/ojo/educational-board-games-by-ojo/?ref=kicktraq)** A smarter way for 4-8 year old children to absorb key topics, based on STREAM learning. // *Has raised £4,063 of £5,000 so far. (~81%)*|? - ?|46|$33 / £88|Nov 25| [kicktraq](https://www.kicktraq.com/projects/ojo/educational-board-games-by-ojo/?ref=kicktraq)
+**[Vampire: The Masquerade – Blood Feud](https://www.kickstarter.com/projects/everythingepicgames/vampire-the-masquerade-blood-feud-a-mega-board-game/?ref=kicktraq)** A brand new type of game! Part MegaGame, Part Board Game, Part RPG! A Strategic Diplomatic, Tactical game for 4-32 Players! // **Has raised $91,338 of $45,000 so far. (~202%) ☑**|4 - 32|736|$99 / $124|Nov 26| [kicktraq](https://www.kicktraq.com/projects/everythingepicgames/vampire-the-masquerade-blood-feud-a-mega-board-game/?ref=kicktraq) [bgg](https://boardgamegeek.com/boardgame/277615/vampire-masquerade-blood-feud)
+**[Hour of Need](https://www.kickstarter.com/projects/blacklistgames/hour-of-need/?ref=kicktraq)** A cooperative game of comic book action for 1-6 players designed by Adam and Brady Sadler. // **Has raised $110,147 of $100,000 so far. (~110%) ☑**|1 - 6|1103|$35 / $100|Nov 26| [kicktraq](https://www.kicktraq.com/projects/blacklistgames/hour-of-need/?ref=kicktraq) [bgg](https://boardgamegeek.com/boardgame/289467/hour-need)
+**[Galilean Moons](https://www.kickstarter.com/projects/fantasyworkhouse/galilean-moons-a-board-game-of-galactic-mining/?ref=kicktraq)** 1-4 players travel to the moons of Jupiter to claim territory and mine powerful gems left in the wake of a cosmic meteor shower. // **Has raised $23,985 NZD of $17,000 NZD so far. (~141%) ☑**|1 - 4|301|$45 / $80 NZD|Nov 26| [kicktraq](https://www.kicktraq.com/projects/fantasyworkhouse/galilean-moons-a-board-game-of-galactic-mining/?ref=kicktraq) [bgg](https://boardgamegeek.com/boardgame/226802/galilean-moons)
+**[Capone: The Business of Prohibition](https://www.kickstarter.com/projects/eldoradogames/capone-the-business-of-prohibition/?ref=kicktraq)** A strategic board game of drafting, auctions, and back-alley negotiation. // **Has raised $42,550 of $23,000 so far. (~185%) ☑**|2 - 5|816|$54 / $52|Nov 26| [kicktraq](https://www.kicktraq.com/projects/eldoradogames/capone-the-business-of-prohibition/?ref=kicktraq) [bgg](https://boardgamegeek.com/boardgame/270685/capone)
+**[LIBERTADORES](https://www.kickstarter.com/projects/787937257/libertadores/?ref=kicktraq)** The game on the Independence of Latin America in the 1800's // **Has raised €6,990 of €6,000 so far. (~116%) ☑**|1 - 2|139|$19 / €50|Nov 26| [kicktraq](https://www.kicktraq.com/projects/787937257/libertadores/?ref=kicktraq) [bgg](https://boardgamegeek.com/boardgame/294622/libertadores)
+**[Honey Buzz](https://www.kickstarter.com/projects/brentdickman/honey-buzz-the-worker-bee-placement-game/?ref=kicktraq)** The Bears are hungry! Build your hive, make some honey, and sell it at the market in this sweet little strategy game. // **Has raised $84,721 of $15,000 so far. (~564%) ☑**|1 - 4|1705|$39 / $50|Nov 27| [kicktraq](https://www.kicktraq.com/projects/brentdickman/honey-buzz-the-worker-bee-placement-game/?ref=kicktraq) [bgg](https://boardgamegeek.com/boardgame/284742/honey-buzz)
+**[Tungaru](https://www.kickstarter.com/projects/alleycatgames/tungaru-a-euro-game-designed-by-louis-and-stefan-malz/?ref=kicktraq)** Tungaru - a seafaring, culture-spreading dice-placement Euro for 2-5 players set in the archipelago of Tungaru // **Has raised £46,741 of £9,500 so far. (~492%) ☑**|2 - 5|1370|$29 / £34|Nov 28| [kicktraq](https://www.kicktraq.com/projects/alleycatgames/tungaru-a-euro-game-designed-by-louis-and-stefan-malz/?ref=kicktraq) [bgg](https://boardgamegeek.com/boardgame/279198/tungaru)
+**[Titans](https://www.kickstarter.com/projects/goonboard/titans/?ref=kicktraq)** Become a king, lead your army to war, use the mythical Titan and crush your opponents. A fresh theme, unique mechanics and epic minis! // **Has raised £136,041 of £80,000 so far. (~170%) ☑**|2 - 4|1679|$99 / £81|Nov 28| [kicktraq](https://www.kicktraq.com/projects/goonboard/titans/?ref=kicktraq) [bgg](https://boardgamegeek.com/boardgame/277080/titans)
+**[Chronicles of Drunagor: Age of Darkness ](https://www.kickstarter.com/projects/wearecgs/chronicles-of-drunagor-age-of-darkness/?ref=kicktraq)** Chronicles of Drunagor: Age of Darkness is a fully cooperative dungeon crawler for 1 to 5 players. // **Has raised $364,243 of $50,000 so far. (~728%) ☑**|1 - 5|2801|$99 / $130|Nov 28| [kicktraq](https://www.kicktraq.com/projects/wearecgs/chronicles-of-drunagor-age-of-darkness/?ref=kicktraq) [bgg](https://boardgamegeek.com/boardgame/268012/chronicles-drunagor-age-darkness)
+**[Crimson Company - The Other Side](https://www.kickstarter.com/projects/1918306304/crimson-company-the-other-side-core-game-expansion/?ref=kicktraq)** The ultimate duel card game returns with its first expansion! Enter ""The Other Side"" - a realm beyond life and death! // **Has raised €27,944 of €5,000 so far. (~558%) ☑**|2 - 2|1214|$12 / €23|Nov 28| [kicktraq](https://www.kicktraq.com/projects/1918306304/crimson-company-the-other-side-core-game-expansion/?ref=kicktraq) [bgg](https://boardgamegeek.com/boardgame/292086/crimson-company-other-side) `#expansion` `#reprint`
+**[RoboSoccer: Table Soccer Game with Robot Players](https://www.kickstarter.com/projects/robosoccer/robosoccer-table-soccer-game-with-robot-players/?ref=kicktraq)** It’s time to play soccer with robots! Portable, lightweight,​ and compact. Made to take them wherever you go // **Has raised £18,465 of £15,500 so far. (~119%) ☑**|2 - 2|70|$148 / £264|Nov 28| [kicktraq](https://www.kicktraq.com/projects/robosoccer/robosoccer-table-soccer-game-with-robot-players/?ref=kicktraq)
+**[Runes of Mayhem - The Tactical Viking Game](https://www.kickstarter.com/projects/marzoprojects/runes-of-mayhem-the-tactical-viking-game-relaunch/?ref=kicktraq)** A historical card game for two. Bigger, better, more affordable this time! Four expansion packs included. // *Has raised $9,580 of $9,900 so far. (~96%)*|2 - 2|251|$20 / $38|Nov 28| [kicktraq](https://www.kicktraq.com/projects/marzoprojects/runes-of-mayhem-the-tactical-viking-game-relaunch/?ref=kicktraq) [bgg](https://boardgamegeek.com/boardgame/245848/runes-mayhem) `#take2`
+**[True Frenemies](https://www.kickstarter.com/projects/truefrenemies/true-frenemies/?ref=kicktraq)** A Christian, busy family, party board game of good friends, bad friends, and very bad friends // *Has raised $2,075 of $3,000 so far. (~69%)*|? - ?|18|$30 / $115|Nov 28| [kicktraq](https://www.kicktraq.com/projects/truefrenemies/true-frenemies/?ref=kicktraq)
+**[Arkeis](https://www.kickstarter.com/projects/ankamaboardgames/arkeis-a-cooperative-story-driven-campaign-board-game/?ref=kicktraq)** Steampunk meets ancient Egypt in Arkeis by the authors of 7 Wonders, Cyclades, Sea of Clouds... // **Has raised €210,991 of €70,000 so far. (~301%) ☑**|1 - 4|2098|$100 / €101|Nov 28| [kicktraq](https://www.kicktraq.com/projects/ankamaboardgames/arkeis-a-cooperative-story-driven-campaign-board-game/?ref=kicktraq) [bgg](https://boardgamegeek.com/boardgame/275284/arkeis)
+**[Breakout!](https://www.kickstarter.com/projects/1438234520/breakout-a-pnp-board-game-of-reaching-to-the-other-side/?ref=kicktraq)** The 2-player (PnP) board game where breaking through your enemy’s line leads you to your path to victory! // **Has raised $56 of $45 so far. (~124%) ☑**|2 - 2|18|$1 / $3|Nov 28| [kicktraq](https://www.kicktraq.com/projects/1438234520/breakout-a-pnp-board-game-of-reaching-to-the-other-side/?ref=kicktraq)
+**[Namiji](https://www.kickstarter.com/projects/funforge/namiji-the-next-chapter-in-the-tokaido-universe/?ref=kicktraq)** A new stand-alone game brought to you by Antoine Bauza, still featuring Naïade’s outstanding artwork! // **Has raised €397,419 of €50,000 so far. (~794%) ☑**|2 - 5|6016|$67 / €66|Nov 29| [kicktraq](https://www.kicktraq.com/projects/funforge/namiji-the-next-chapter-in-the-tokaido-universe/?ref=kicktraq) [bgg](https://boardgamegeek.com/boardgame/275215/namiji)
+**[D.E.I.: Divide et Impera](https://www.kickstarter.com/projects/lmstudio/dei-divide-et-impera/?ref=kicktraq)** D.E.I. - Divide et Impera is a competitive game based on conquests of resources, set in a world devastated by a New Ice Age // **Has raised €202,454 of €85,000 so far. (~238%) ☑**|2 - 4|1831|$88 / €111|Nov 29| [kicktraq](https://www.kicktraq.com/projects/lmstudio/dei-divide-et-impera/?ref=kicktraq) [bgg](https://boardgamegeek.com/boardgame/286158/dei-divide-et-impera)
+**[Burglar](https://www.kickstarter.com/projects/crime-time/burglar-a-game-so-fun-its-criminal/?ref=kicktraq)** A game of skill, tactics and memory wrapped up in one neat little 1920s themed package - a great family game for 6 years to 101. // **Has raised £7,471 of £7,000 so far. (~106%) ☑**|? - ?|187|$26 / £40|Nov 29| [kicktraq](https://www.kicktraq.com/projects/crime-time/burglar-a-game-so-fun-its-criminal/?ref=kicktraq)
+**[Fill in the Game](https://www.kickstarter.com/projects/1598930181/fill-in-the-game-the-relaunch/?ref=kicktraq)** Fill in the Game is the party game defined by you. Draw Cards, Challenge Friends, Make Rules, Collect Points, Have a Blast! // **Has raised $1,544 of $1,000 so far. (~154%) ☑**|3 - 8|47|$20 / $33|Nov 29| [kicktraq](https://www.kicktraq.com/projects/1598930181/fill-in-the-game-the-relaunch/?ref=kicktraq) [bgg](https://boardgamegeek.com/boardgame/284433/fill-game) `#take2`
+**[Trump The Game UNPRESIDENTED](https://www.kickstarter.com/projects/unpresidentedgames/trump-the-game-unpresidented/?ref=kicktraq)** Kickstart Christmas and turn your kitchen table into Congress // *Has raised $3,950 AUD of $5,000 AUD so far. (~79%)*|2 - 4|30|$21 / $132 AUD|Nov 30| [kicktraq](https://www.kicktraq.com/projects/unpresidentedgames/trump-the-game-unpresidented/?ref=kicktraq)
+**[Superclub: The Football Manager Board Game](https://www.kickstarter.com/projects/superclub/superclub-the-football-manager-board-game/?ref=kicktraq)** An action-packed 2–6 player strategy game for friends, families and other great rivals. // **Has raised kr558,565 NOK of kr150,000 NOK so far. (~372%) ☑**|2 - 6|739|$77 / kr756 NOK|Nov 30| [kicktraq](https://www.kicktraq.com/projects/superclub/superclub-the-football-manager-board-game/?ref=kicktraq)
+**[Innsmouth 32](https://www.kickstarter.com/projects/1746713398/innsmouth-32-cards-dice-terror/?ref=kicktraq)** Pulp horror awaits in this tabletop game that looks like a graphic novel and plays like a horror movie! // **Has raised $17,396 of $9,032 so far. (~192%) ☑**|3 - 13|353|$35 / $49|Nov 30| [kicktraq](https://www.kicktraq.com/projects/1746713398/innsmouth-32-cards-dice-terror/?ref=kicktraq) [bgg](https://boardgamegeek.com/boardgame/282058/shuffling-horror-innsmouth-32)
+**[Bewere](https://www.kickstarter.com/projects/bewere/bewere-0/?ref=kicktraq)** This is a card game for people who always wanted to be a werewolf and transform a village into their pack. // *Has raised €7,211 of €10,000 so far. (~72%)*|2 - 5|191|$18 / €38|Nov 30| [kicktraq](https://www.kicktraq.com/projects/bewere/bewere-0/?ref=kicktraq) [bgg](https://boardgamegeek.com/boardgame/285282/bewere)
+**[Hey Cutie](https://www.kickstarter.com/projects/omm/hey-cutie-the-tabletop-dating-sim/?ref=kicktraq)** Crush on vampires, woo sexy cyborgs, and sabotage your opponents' love lives in this quirky card game. // **Has raised $5,787 of $3,000 so far. (~192%) ☑**|2 - 5|124|$30 / $47|Nov 30| [kicktraq](https://www.kicktraq.com/projects/omm/hey-cutie-the-tabletop-dating-sim/?ref=kicktraq) `#take2`
+**[BeffaBabbo (PnP)](https://www.kickstarter.com/projects/ludodi/beffababbo/?ref=kicktraq)** A PnP card game where Santa Claus, Befana, Easter Bunny and Jack O’Lantern fight one another with….gift boxes! Play Christmas ; ) // **Has raised €107 of €100 so far. (~107%) ☑**|4 - 4|16|$3 / €7|Nov 30| [kicktraq](https://www.kicktraq.com/projects/ludodi/beffababbo/?ref=kicktraq) `#take2`
+**[Button Shy Wallet Games - Reprint Campaign](https://www.kickstarter.com/projects/239309591/button-shy-wallet-games-reprint-campaign/?ref=kicktraq)** A reprint campaign for some of the long lost Button Shy titles. All games chosen by the backers! // **Has raised $26,718 of $3,500 so far. (~763%) ☑**|? - ?|837|$10 / $32|Nov 30| [kicktraq](https://www.kicktraq.com/projects/239309591/button-shy-wallet-games-reprint-campaign/?ref=kicktraq)
+**[disgRACE to The White House, a satirical board game.](https://www.kickstarter.com/projects/836297151/a-satirical-board-game-laugh-dont-cry/?ref=kicktraq)** A buzzy, celebrated piece of popular culture. Laugh, don't cry. // *Has raised $7,697 of $13,000 so far. (~59%)*|2 - 6|89|$75 / $86|Dec 01| [kicktraq](https://www.kicktraq.com/projects/836297151/a-satirical-board-game-laugh-dont-cry/?ref=kicktraq) [bgg](https://boardgamegeek.com/boardgame/261489/disgrace-white-house) `#hmm`
+**[Tranquility](https://www.kickstarter.com/projects/boardgamehub/tranquility-a-co-operative-card-game/?ref=kicktraq)** Please help us bring to life this intense and captivating co-operative experience. // **Has raised £20,399 of £7,000 so far. (~291%) ☑**|1 - 5|1556|$16 / £13|Dec 01| [kicktraq](https://www.kicktraq.com/projects/boardgamehub/tranquility-a-co-operative-card-game/?ref=kicktraq) [bgg](https://boardgamegeek.com/boardgame/288513/tranquility)
+## New This Week
+Project Info|Players|Backers|Min / Avg Pledge|Ends|Comments
+:--|:--|:--|:--|:--|:--
+**[1941: Race to Moscow](https://www.kickstarter.com/projects/phalanxgames/1941-race-to-moscow/?ref=kicktraq)** How to plan and execute the largest military campaign in history? Find it out in 1-3.5 player, 90 minutes logistic take on Barbarossa. // **Has raised £57,783 of £50,000 so far. (~115%) ☑**|1 - 4|999|$78 / £58|Dec 11| [bgg](https://boardgamegeek.com/boardgame/190572/1941-race-moscow)
+**[AlderQuest](https://www.kickstarter.com/projects/mikegnade/alderquest/?ref=kicktraq)** A 1-4 player area control game of animal guilds competing to find and match acorns before the start of winter. // *Has raised $7,144 of $24,000 so far. (~29%)*|1 - 4|162|$39 / $44|Dec 13| [bgg](https://boardgamegeek.com/boardgame/253420/alderquest)
+**[Annihilation](https://www.kickstarter.com/projects/annihilationtcg/annihilation-0/?ref=kicktraq)** A trading card game with a unique system of play. Using resources to stay alive and dominate your opponent. // *Has raised £51 of £14,900 so far. (~0%)*|2 - 2|2|$20 / £26|Dec 22|
+**[Any Given Sunday!](https://www.kickstarter.com/projects/wca6405/any-given-sunday/?ref=kicktraq)** The Ultimate Football Game // *Has raised $105 of $25,000 so far. (~0%)*|1 - 2|7|$50 / $15|Dec 19|
+**[Apidaia](https://www.kickstarter.com/projects/blueflamegames/apidaia-the-game-about-bees/?ref=kicktraq)** Apidaia is a light to medium 2-6 player asymmetric world exploring, worker placement, resource management, engine builder. // **Has raised $5,062 of $4,500 so far. (~112%) ☑**|2 - 6|92|$39 / $55|Dec 18| [bgg](https://boardgamegeek.com/boardgame/274031/apidaia)
+**[Arcane Blaster Casters](https://www.kickstarter.com/projects/battleboargames/arcane-blaster-casters/?ref=kicktraq)** A 2-8 player board game of magical mastery! // *Has raised £2,059 of £13,000 so far. (~15%)*|2 - 8|53|$45 / £39|Dec 08| [bgg](https://boardgamegeek.com/boardgame/294008/arcane-blaster-casters)
+**[Balk - New Release](https://www.kickstarter.com/projects/kozz/balk-new-release/?ref=kicktraq)** Awesome Card Game! Great Holiday Gift! // **Has raised $3,163 of $500 so far. (~632%) ☑**|2 - 4|132|$8 / $24|Dec 02| [bgg](https://boardgamegeek.com/boardgame/279649/balk) `#newedition`
+**[Best Budz The Game](https://www.kickstarter.com/projects/1819623788/best-budz-the-game/?ref=kicktraq)** A card game for 2 to 4 players, about growing marijuana and building your stash, while stopping your opponents from doing the same. // *Has raised $215 CAD of $800 CAD so far. (~26%)*|2 - 4|9|$16 / $24 CAD|Dec 21|
+**[Button Shy Wallet Games - Reprint Campaign](https://www.kickstarter.com/projects/239309591/button-shy-wallet-games-reprint-campaign/?ref=kicktraq)** A reprint campaign for some of the long lost Button Shy titles. All games chosen by the backers! // **Has raised $26,718 of $3,500 so far. (~763%) ☑**|? - ?|837|$10 / $32|Nov 30|
+**[CAPCAP](https://www.kickstarter.com/projects/capcap/capcap/?ref=kicktraq)** Eco-friendly, adult drinking game intended to make your social gatherings more enjoyable with some healthy competition! // *Has raised $1 CAD of $2,500 CAD so far. (~0%)*|2 - 6|1|$38 / NA|Nov 29|
+**[City: Children's App Brought to Life](https://www.kickstarter.com/projects/socialstax/city-childrens-app-brought-to-life/?ref=kicktraq)** This is City. And ongoing board game fueled on Imagination, Creativity, and fun! A children's App brought to life. // *Has raised $2 CAD of $6,000 CAD so far. (~0%)*|? - ?|2|$23 / $1 CAD|Dec 20| `#expansion`
+**[Dawn of Madness](https://www.kickstarter.com/projects/diemensiongames/dawn-of-madness/?ref=kicktraq)** A 1-4 player story-driven cooperative game that is a true mind-shattering horror experience in a board game. // **Has raised $813,005 of $100,000 so far. (~813%) ☑**|1 - 4|6797|$79 / $120|Dec 17| [bgg](https://boardgamegeek.com/boardgamepublisher/33081/diemension-games)
+**[Dinoblivion](https://www.kickstarter.com/projects/goblivion/dinoblivion-conquer-the-land-of-the-dinosaurs/?ref=kicktraq)** Combines Deck Building, Tableau Building, Resource Management and Multi-Use Cards to Take Over a Land Dominated by Dinosaurs. // **Has raised $33,123 CAD of $26,000 CAD so far. (~127%) ☑**|1 - 2|679|$25 / $49 CAD|Dec 10| [bgg](https://boardgamegeek.com/boardgame/262188/dinoblivion)
+**[Divinity Original Sin the Board Game](https://www.kickstarter.com/projects/larianstudios/divinity-original-sin-the-board-game/?ref=kicktraq)** Divinity Original Sin the Board Game is a cooperative, storytelling adventure game set in the Chronicle System. // **Has raised $679,259 of $160,000 so far. (~424%) ☑**|1 - 4|3764|$120 / $180|Dec 20| [bgg](https://boardgamegeek.com/boardgame/294378/divinity-original-sin-board-game)
+**[Dr. Davenport's Dirty Dice Game](https://www.kickstarter.com/projects/1327475206/dr-davenports-dirty-dice-game/?ref=kicktraq)** Dr. Davenport's Dirty Dice is a humorous game: try to get your friends and family into therapy and onto Dr. Davenports couch! // *Has raised $63 of $500 so far. (~12%)*|2 - ?|3|$25 / $21|Dec 22|
+**[Ducks in Tow](https://www.kickstarter.com/projects/1812622835/ducks-in-tow/?ref=kicktraq)** A 2-4 player game of getting your ducks in a row! // *Has raised $8,497 CAD of $18,800 CAD so far. (~45%)*|2 - 4|216|$34 / $39 CAD|Dec 12| [bgg](https://boardgamegeek.com/boardgame/283641/ducks-tow)
+**[Dump the Chump: The Mitch McConnell Edition](https://www.kickstarter.com/projects/oldbean/dump-the-chump-the-mitch-mcconnell-edition/?ref=kicktraq)** A cooperative card game for dumping failing politicians // *Has raised $51 of $5,000 so far. (~1%)*|2 - 5|3|$25 / $17|Dec 03|
+**[Hogs Of War The Card Game](https://www.kickstarter.com/projects/stoneswordgames/hogs-of-war-the-card-game/?ref=kicktraq)** A card game adaptation of the beloved cult-classic PS1 Video Game title Hogs Of War. // **Has raised £8,811 of £6,000 so far. (~146%) ☑**|2 - 2|360|$20 / £24|Dec 19| [bgg](https://boardgamegeek.com/boardgame/294252/hogs-war-card-game)
+**[Kryptogram](https://www.kickstarter.com/projects/kryptogram/kryptogram/?ref=kicktraq)** A TableTop word game where you race to spell 4-letter words. // *Has raised $188 CAD of $20,000 CAD so far. (~0%)*|2 - 6|9|$21 / $21 CAD|Dec 22|
+**[Magnate: The First City](https://www.kickstarter.com/projects/magnategame/magnate-the-first-city/?ref=kicktraq)** Magnate is an exciting property/city building strategy game for 1-5 players. Make as much money as you can before the market crashes! // **Has raised $32,509 of $17,000 so far. (~191%) ☑**|1 - 5|368|$69 / $88|Dec 12| [bgg](https://boardgamegeek.com/boardgame/258242/magnate-first-city)
+**[Medici: The Dice Game](https://www.kickstarter.com/projects/grailgames/medici-the-dice-game-kinizias-medici-family-expands/?ref=kicktraq)** Medici: The Dice Game is a new design by Reiner Knizia that shares the setting and feel of his classic Medici board game... with dice! // **Has raised $23,354 AUD of $10,000 AUD so far. (~233%) ☑**|2 - 4|400|$20 / $58 AUD|Dec 05| [bgg](https://boardgamegeek.com/boardgame/291511/medici-dice-game)
+**[Movie Battle](https://www.kickstarter.com/projects/newburyrain/movie-battle/?ref=kicktraq)** A strategic card game with fast-paced duels &amp; unexpected endings. // *Has raised $1,674 of $5,000 so far. (~33%)*|? - ?|34|$30 / $49|Dec 18|
+**[On Pointe](https://www.kickstarter.com/projects/analoggamestudios/on-pointe-the-ballet-board-game-0/?ref=kicktraq)** In pursuit to become Prima, collect gems &amp; treasures in a set collection ballet themed game. // *Has raised $1,714 CAD of $1,900 CAD so far. (~90%)*|2 - 4|55|$30 / $31 CAD|Dec 12| [bgg](https://boardgamegeek.com/boardgame/267052/pointe-ballet-board-game)
+**[Orchards](https://www.kickstarter.com/projects/flyingcarpetgames/orchards-a-competitive-fruit-farming-game-for-2-4-players/?ref=kicktraq)** Plant, grow, harvest and sell your fruit at the market in this fruit farming game. // *Has raised $784 AUD of $24,500 AUD so far. (~3%)*|2 - 4|9|$56 / $87 AUD|Dec 18| [bgg](https://boardgamegeek.com/boardgame/293823/orchards)
+**[Outrun](https://www.kickstarter.com/projects/goodlookingrichard/outrun/?ref=kicktraq)** Competitive real-time reflex/pattern matching card game // *Has raised £1,467 of £5,000 so far. (~29%)*|2 - 6|55|$29 / £27|Dec 19|
+**[Pichenotte Football](https://www.kickstarter.com/projects/reversogames/pichenotte-football/?ref=kicktraq)** A Great Flicking Game for family and friends ! A surprising strategy and dexterity game. // *Has raised $1,840 CAD of $35,000 CAD so far. (~5%)*|2 - 2|19|$28 / $97 CAD|Dec 20|
+**[Pot Luck Returns](https://www.kickstarter.com/projects/pot/pot-luck/?ref=kicktraq)** Fun and Exciting Retro Board Game where you can buy, sell and deal pot right in your own living room // *Has raised $215 of $10,000 so far. (~2%)*|2 - 6|6|$49 / $36|Dec 29| [bgg](https://boardgamegeek.com/boardgame/10970/pot-luck) `#lolwut`
+**[Shaolin Chess](https://www.kickstarter.com/projects/shaolinchess/shaolin-chess-0/?ref=kicktraq)** A Chess/Chinese Checkers Hybrid. Master the Shaolin Styles fighting against up to 5 of your friends in 5 game modes of epic battles. // *Has raised $947 of $12,000 so far. (~7%)*|2 - 6|11|$35 / $86|Dec 20| [bgg](https://boardgamegeek.com/boardgame/293007/shaolin-chess) `#take2`
+**[Slip Strike](https://www.kickstarter.com/projects/99575233/slip-strike/?ref=kicktraq)** Two agents battle each other in another dimension while utilizing teleportation and time-traveling to survive. // *Has raised $3,538 of $6,000 so far. (~58%)*|2 - 2|122|$14 / $29|Dec 14| [bgg](https://boardgamegeek.com/boardgame/285234/slip-strike)
+**[The Black Heart](https://www.kickstarter.com/projects/theblackheart/the-black-heart/?ref=kicktraq)** A game that blends classic dominoes, card and resource management into one simple yet addictive experience with a dark twist. // *Has raised £152 of £4,820 so far. (~3%)*|2 - 2|7|$44 / £22|Dec 20|
+**[Trade War Card Game](https://www.kickstarter.com/projects/tradewarcardgame/trade-war-card-game/?ref=kicktraq)** A card game that ends the trade war and makes the world great again. // *Has raised $1,027 of $10,000 so far. (~10%)*|2 - 6|24|$26 / $43|Dec 19|
+**[Venice](https://www.kickstarter.com/projects/braincrack-games/venice-beautiful-groundbreaking-eurogame-for-1-5-players/?ref=kicktraq)** Explore Inquisition-era Venice in this inventive worker placement game by Dávid Turczi and Andrei Novac with beautiful art and pieces. // **Has raised £44,932 of £20,000 so far. (~224%) ☑**|1 - 5|962|$51 / £47|Dec 15| [bgg](https://boardgamegeek.com/boardgame/274861/venice)
+**[We Only Have Room For...](https://www.kickstarter.com/projects/wohrf/we-only-have-room-for/?ref=kicktraq)** Don't be the worst and maybe you'll survive. Single elimination card game. // *Has raised $602 of $16,000 so far. (~3%)*|3 - 10|10|$30 / $60|Jan 18|
+**[Work IT!](https://www.kickstarter.com/projects/1795975411/work-it-with-the-wingadoos/?ref=kicktraq)** A card game that puts a fun spin on financial literacy // *Has raised $5,399 of $15,000 so far. (~35%)*|? - ?|79|$24 / $68|Dec 19|
+**[Zoned Out](https://www.kickstarter.com/projects/zonedout/zoned-out/?ref=kicktraq)** A fast, fun and easy to learn, city building game with a stunning table presence. // *Has raised $2,828 of $4,000 so far. (~70%)*|2 - 4|110|$29 / $26|Dec 05| [bgg](https://boardgamegeek.com/boardgame/249166/zoned-out)
+## Need moar Kickstarter goodness?
+Check out... 
+
+- My [Calendar of Announced Kickstarters](https://airtable.com/shrioIkpOb33jjrcw) ([Also available in iCal flavor](https://airtable.com/shrioIkpOb33jjrcw/iCal?timeZone=America%2FLos_Angeles&amp;userLocale=en))
+- My interactive AirTable view of [all active board game kickstarter campaigns](https://airtable.com/shrL0m86v0xDjRKbe).
+- BoardGameGeek's variety of [Kickstarter-oriented Geeklists](https://boardgamegeek.com/geeklist/166152/kickstarter-project-metalist)
+- [Kicktraq's data-driven views](https://www.kicktraq.com/categories/games/tabletop%20games/)
+
+## Footnotes
+- `#hmm` means that something about the project seems a little off. Buyer beware kinda thing.
+- `#lolwut` is reserved for projects that seem like copycat games or campaigns put together with little thought. Check 'em out for amusement.
+- `#take` tags are for projects that have been restarted for some reason, with the number indicating what iteration we're currently on.
+- Did I miss something? Particularly something **new in the last 7 days** or **ending in the next 7 days**? Let me know in the comments and I'll add it in.
+
+## Tip Jar
+If you enjoy these lists, maybe [toss me a buck](https://www.paypal.me/Zelbinian/1) now and then. [Signing up for a free AirTable account](https://airtable.com/invite/r/wJL1rj8U) via my referral link can help, too. Plus, it's swell!","&lt;!-- SC_OFF --&gt;&lt;div class=""md""&gt;&lt;h2&gt;Ending Soon&lt;/h2&gt;
+
+&lt;table&gt;&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=""left""&gt;Project Info&lt;/th&gt;
+&lt;th align=""left""&gt;Players&lt;/th&gt;
+&lt;th align=""left""&gt;Backers&lt;/th&gt;
+&lt;th align=""left""&gt;Min / Avg Pledge&lt;/th&gt;
+&lt;th align=""left""&gt;Ends&lt;/th&gt;
+&lt;th align=""left""&gt;Comments&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td align=""left""&gt;&lt;strong&gt;&lt;a href=""https://www.kickstarter.com/projects/portalgames/stronghold-undead/?ref=kicktraq""&gt;Stronghold: Undead (2nd Ed)&lt;/a&gt;&lt;/strong&gt; An epic strategy game for two players telling the story of a siege // &lt;strong&gt;Has raised $126,525 of $35,000 so far. (~361%) ☑&lt;/strong&gt;&lt;/td&gt;
+&lt;td align=""left""&gt;2 - 2&lt;/td&gt;
+&lt;td align=""left""&gt;1870&lt;/td&gt;
+&lt;td align=""left""&gt;$NA / $68&lt;/td&gt;
+&lt;td align=""left""&gt;Nov 25&lt;/td&gt;
+&lt;td align=""left""&gt;&lt;a href=""https://www.kicktraq.com/projects/portalgames/stronghold-undead/?ref=kicktraq""&gt;kicktraq&lt;/a&gt; &lt;a href=""https://boardgamegeek.com/boardgame/206593/stronghold-undead-2nd-edition""&gt;bgg&lt;/a&gt; &lt;code&gt;#newedition&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=""left""&gt;&lt;strong&gt;&lt;a href=""https://www.kickstarter.com/projects/ojo/educational-board-games-by-ojo/?ref=kicktraq""&gt;Educational Board Games by OjO&lt;/a&gt;&lt;/strong&gt; A smarter way for 4-8 year old children to absorb key topics, based on STREAM learning. // &lt;em&gt;Has raised £4,063 of £5,000 so far. (~81%)&lt;/em&gt;&lt;/td&gt;
+&lt;td align=""left""&gt;? - ?&lt;/td&gt;
+&lt;td align=""left""&gt;46&lt;/td&gt;
+&lt;td align=""left""&gt;$33 / £88&lt;/td&gt;
+&lt;td align=""left""&gt;Nov 25&lt;/td&gt;
+&lt;td align=""left""&gt;&lt;a href=""https://www.kicktraq.com/projects/ojo/educational-board-games-by-ojo/?ref=kicktraq""&gt;kicktraq&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=""left""&gt;&lt;strong&gt;&lt;a href=""https://www.kickstarter.com/projects/everythingepicgames/vampire-the-masquerade-blood-feud-a-mega-board-game/?ref=kicktraq""&gt;Vampire: The Masquerade – Blood Feud&lt;/a&gt;&lt;/strong&gt; A brand new type of game! Part MegaGame, Part Board Game, Part RPG! A Strategic Diplomatic, Tactical game for 4-32 Players! // &lt;strong&gt;Has raised $91,338 of $45,000 so far. (~202%) ☑&lt;/strong&gt;&lt;/td&gt;
+&lt;td align=""left""&gt;4 - 32&lt;/td&gt;
+&lt;td align=""left""&gt;736&lt;/td&gt;
+&lt;td align=""left""&gt;$99 / $124&lt;/td&gt;
+&lt;td align=""left""&gt;Nov 26&lt;/td&gt;
+&lt;td align=""left""&gt;&lt;a href=""https://www.kicktraq.com/projects/everythingepicgames/vampire-the-masquerade-blood-feud-a-mega-board-game/?ref=kicktraq""&gt;kicktraq&lt;/a&gt; &lt;a href=""https://boardgamegeek.com/boardgame/277615/vampire-masquerade-blood-feud""&gt;bgg&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=""left""&gt;&lt;strong&gt;&lt;a href=""https://www.kickstarter.com/projects/blacklistgames/hour-of-need/?ref=kicktraq""&gt;Hour of Need&lt;/a&gt;&lt;/strong&gt; A cooperative game of comic book action for 1-6 players designed by Adam and Brady Sadler. // &lt;strong&gt;Has raised $110,147 of $100,000 so far. (~110%) ☑&lt;/strong&gt;&lt;/td&gt;
+&lt;td align=""left""&gt;1 - 6&lt;/td&gt;
+&lt;td align=""left""&gt;1103&lt;/td&gt;
+&lt;td align=""left""&gt;$35 / $100&lt;/td&gt;
+&lt;td align=""left""&gt;Nov 26&lt;/td&gt;
+&lt;td align=""left""&gt;&lt;a href=""https://www.kicktraq.com/projects/blacklistgames/hour-of-need/?ref=kicktraq""&gt;kicktraq&lt;/a&gt; &lt;a href=""https://boardgamegeek.com/boardgame/289467/hour-need""&gt;bgg&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=""left""&gt;&lt;strong&gt;&lt;a href=""https://www.kickstarter.com/projects/fantasyworkhouse/galilean-moons-a-board-game-of-galactic-mining/?ref=kicktraq""&gt;Galilean Moons&lt;/a&gt;&lt;/strong&gt; 1-4 players travel to the moons of Jupiter to claim territory and mine powerful gems left in the wake of a cosmic meteor shower. // &lt;strong&gt;Has raised $23,985 NZD of $17,000 NZD so far. (~141%) ☑&lt;/strong&gt;&lt;/td&gt;
+&lt;td align=""left""&gt;1 - 4&lt;/td&gt;
+&lt;td align=""left""&gt;301&lt;/td&gt;
+&lt;td align=""left""&gt;$45 / $80 NZD&lt;/td&gt;
+&lt;td align=""left""&gt;Nov 26&lt;/td&gt;
+&lt;td align=""left""&gt;&lt;a href=""https://www.kicktraq.com/projects/fantasyworkhouse/galilean-moons-a-board-game-of-galactic-mining/?ref=kicktraq""&gt;kicktraq&lt;/a&gt; &lt;a href=""https://boardgamegeek.com/boardgame/226802/galilean-moons""&gt;bgg&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=""left""&gt;&lt;strong&gt;&lt;a href=""https://www.kickstarter.com/projects/eldoradogames/capone-the-business-of-prohibition/?ref=kicktraq""&gt;Capone: The Business of Prohibition&lt;/a&gt;&lt;/strong&gt; A strategic board game of drafting, auctions, and back-alley negotiation. // &lt;strong&gt;Has raised $42,550 of $23,000 so far. (~185%) ☑&lt;/strong&gt;&lt;/td&gt;
+&lt;td align=""left""&gt;2 - 5&lt;/td&gt;
+&lt;td align=""left""&gt;816&lt;/td&gt;
+&lt;td align=""left""&gt;$54 / $52&lt;/td&gt;
+&lt;td align=""left""&gt;Nov 26&lt;/td&gt;
+&lt;td align=""left""&gt;&lt;a href=""https://www.kicktraq.com/projects/eldoradogames/capone-the-business-of-prohibition/?ref=kicktraq""&gt;kicktraq&lt;/a&gt; &lt;a href=""https://boardgamegeek.com/boardgame/270685/capone""&gt;bgg&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=""left""&gt;&lt;strong&gt;&lt;a href=""https://www.kickstarter.com/projects/787937257/libertadores/?ref=kicktraq""&gt;LIBERTADORES&lt;/a&gt;&lt;/strong&gt; The game on the Independence of Latin America in the 1800&amp;#39;s // &lt;strong&gt;Has raised €6,990 of €6,000 so far. (~116%) ☑&lt;/strong&gt;&lt;/td&gt;
+&lt;td align=""left""&gt;1 - 2&lt;/td&gt;
+&lt;td align=""left""&gt;139&lt;/td&gt;
+&lt;td align=""left""&gt;$19 / €50&lt;/td&gt;
+&lt;td align=""left""&gt;Nov 26&lt;/td&gt;
+&lt;td align=""left""&gt;&lt;a href=""https://www.kicktraq.com/projects/787937257/libertadores/?ref=kicktraq""&gt;kicktraq&lt;/a&gt; &lt;a href=""https://boardgamegeek.com/boardgame/294622/libertadores""&gt;bgg&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=""left""&gt;&lt;strong&gt;&lt;a href=""https://www.kickstarter.com/projects/brentdickman/honey-buzz-the-worker-bee-placement-game/?ref=kicktraq""&gt;Honey Buzz&lt;/a&gt;&lt;/strong&gt; The Bears are hungry! Build your hive, make some honey, and sell it at the market in this sweet little strategy game. // &lt;strong&gt;Has raised $84,721 of $15,000 so far. (~564%) ☑&lt;/strong&gt;&lt;/td&gt;
+&lt;td align=""left""&gt;1 - 4&lt;/td&gt;
+&lt;td align=""left""&gt;1705&lt;/td&gt;
+&lt;td align=""left""&gt;$39 / $50&lt;/td&gt;
+&lt;td align=""left""&gt;Nov 27&lt;/td&gt;
+&lt;td align=""left""&gt;&lt;a href=""https://www.kicktraq.com/projects/brentdickman/honey-buzz-the-worker-bee-placement-game/?ref=kicktraq""&gt;kicktraq&lt;/a&gt; &lt;a href=""https://boardgamegeek.com/boardgame/284742/honey-buzz""&gt;bgg&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=""left""&gt;&lt;strong&gt;&lt;a href=""https://www.kickstarter.com/projects/alleycatgames/tungaru-a-euro-game-designed-by-louis-and-stefan-malz/?ref=kicktraq""&gt;Tungaru&lt;/a&gt;&lt;/strong&gt; Tungaru - a seafaring, culture-spreading dice-placement Euro for 2-5 players set in the archipelago of Tungaru // &lt;strong&gt;Has raised £46,741 of £9,500 so far. (~492%) ☑&lt;/strong&gt;&lt;/td&gt;
+&lt;td align=""left""&gt;2 - 5&lt;/td&gt;
+&lt;td align=""left""&gt;1370&lt;/td&gt;
+&lt;td align=""left""&gt;$29 / £34&lt;/td&gt;
+&lt;td align=""left""&gt;Nov 28&lt;/td&gt;
+&lt;td align=""left""&gt;&lt;a href=""https://www.kicktraq.com/projects/alleycatgames/tungaru-a-euro-game-designed-by-louis-and-stefan-malz/?ref=kicktraq""&gt;kicktraq&lt;/a&gt; &lt;a href=""https://boardgamegeek.com/boardgame/279198/tungaru""&gt;bgg&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=""left""&gt;&lt;strong&gt;&lt;a href=""https://www.kickstarter.com/projects/goonboard/titans/?ref=kicktraq""&gt;Titans&lt;/a&gt;&lt;/strong&gt; Become a king, lead your army to war, use the mythical Titan and crush your opponents. A fresh theme, unique mechanics and epic minis! // &lt;strong&gt;Has raised £136,041 of £80,000 so far. (~170%) ☑&lt;/strong&gt;&lt;/td&gt;
+&lt;td align=""left""&gt;2 - 4&lt;/td&gt;
+&lt;td align=""left""&gt;1679&lt;/td&gt;
+&lt;td align=""left""&gt;$99 / £81&lt;/td&gt;
+&lt;td align=""left""&gt;Nov 28&lt;/td&gt;
+&lt;td align=""left""&gt;&lt;a href=""https://www.kicktraq.com/projects/goonboard/titans/?ref=kicktraq""&gt;kicktraq&lt;/a&gt; &lt;a href=""https://boardgamegeek.com/boardgame/277080/titans""&gt;bgg&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=""left""&gt;&lt;strong&gt;&lt;a href=""https://www.kickstarter.com/projects/wearecgs/chronicles-of-drunagor-age-of-darkness/?ref=kicktraq""&gt;Chronicles of Drunagor: Age of Darkness &lt;/a&gt;&lt;/strong&gt; Chronicles of Drunagor: Age of Darkness is a fully cooperative dungeon crawler for 1 to 5 players. // &lt;strong&gt;Has raised $364,243 of $50,000 so far. (~728%) ☑&lt;/strong&gt;&lt;/td&gt;
+&lt;td align=""left""&gt;1 - 5&lt;/td&gt;
+&lt;td align=""left""&gt;2801&lt;/td&gt;
+&lt;td align=""left""&gt;$99 / $130&lt;/td&gt;
+&lt;td align=""left""&gt;Nov 28&lt;/td&gt;
+&lt;td align=""left""&gt;&lt;a href=""https://www.kicktraq.com/projects/wearecgs/chronicles-of-drunagor-age-of-darkness/?ref=kicktraq""&gt;kicktraq&lt;/a&gt; &lt;a href=""https://boardgamegeek.com/boardgame/268012/chronicles-drunagor-age-darkness""&gt;bgg&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=""left""&gt;&lt;strong&gt;&lt;a href=""https://www.kickstarter.com/projects/1918306304/crimson-company-the-other-side-core-game-expansion/?ref=kicktraq""&gt;Crimson Company - The Other Side&lt;/a&gt;&lt;/strong&gt; The ultimate duel card game returns with its first expansion! Enter &amp;quot;The Other Side&amp;quot; - a realm beyond life and death! // &lt;strong&gt;Has raised €27,944 of €5,000 so far. (~558%) ☑&lt;/strong&gt;&lt;/td&gt;
+&lt;td align=""left""&gt;2 - 2&lt;/td&gt;
+&lt;td align=""left""&gt;1214&lt;/td&gt;
+&lt;td align=""left""&gt;$12 / €23&lt;/td&gt;
+&lt;td align=""left""&gt;Nov 28&lt;/td&gt;
+&lt;td align=""left""&gt;&lt;a href=""https://www.kicktraq.com/projects/1918306304/crimson-company-the-other-side-core-game-expansion/?ref=kicktraq""&gt;kicktraq&lt;/a&gt; &lt;a href=""https://boardgamegeek.com/boardgame/292086/crimson-company-other-side""&gt;bgg&lt;/a&gt; &lt;code&gt;#expansion&lt;/code&gt; &lt;code&gt;#reprint&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=""left""&gt;&lt;strong&gt;&lt;a href=""https://www.kickstarter.com/projects/robosoccer/robosoccer-table-soccer-game-with-robot-players/?ref=kicktraq""&gt;RoboSoccer: Table Soccer Game with Robot Players&lt;/a&gt;&lt;/strong&gt; It’s time to play soccer with robots! Portable, lightweight,​ and compact. Made to take them wherever you go // &lt;strong&gt;Has raised £18,465 of £15,500 so far. (~119%) ☑&lt;/strong&gt;&lt;/td&gt;
+&lt;td align=""left""&gt;2 - 2&lt;/td&gt;
+&lt;td align=""left""&gt;70&lt;/td&gt;
+&lt;td align=""left""&gt;$148 / £264&lt;/td&gt;
+&lt;td align=""left""&gt;Nov 28&lt;/td&gt;
+&lt;td align=""left""&gt;&lt;a href=""https://www.kicktraq.com/projects/robosoccer/robosoccer-table-soccer-game-with-robot-players/?ref=kicktraq""&gt;kicktraq&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=""left""&gt;&lt;strong&gt;&lt;a href=""https://www.kickstarter.com/projects/marzoprojects/runes-of-mayhem-the-tactical-viking-game-relaunch/?ref=kicktraq""&gt;Runes of Mayhem - The Tactical Viking Game&lt;/a&gt;&lt;/strong&gt; A historical card game for two. Bigger, better, more affordable this time! Four expansion packs included. // &lt;em&gt;Has raised $9,580 of $9,900 so far. (~96%)&lt;/em&gt;&lt;/td&gt;
+&lt;td align=""left""&gt;2 - 2&lt;/td&gt;
+&lt;td align=""left""&gt;251&lt;/td&gt;
+&lt;td align=""left""&gt;$20 / $38&lt;/td&gt;
+&lt;td align=""left""&gt;Nov 28&lt;/td&gt;
+&lt;td align=""left""&gt;&lt;a href=""https://www.kicktraq.com/projects/marzoprojects/runes-of-mayhem-the-tactical-viking-game-relaunch/?ref=kicktraq""&gt;kicktraq&lt;/a&gt; &lt;a href=""https://boardgamegeek.com/boardgame/245848/runes-mayhem""&gt;bgg&lt;/a&gt; &lt;code&gt;#take2&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=""left""&gt;&lt;strong&gt;&lt;a href=""https://www.kickstarter.com/projects/truefrenemies/true-frenemies/?ref=kicktraq""&gt;True Frenemies&lt;/a&gt;&lt;/strong&gt; A Christian, busy family, party board game of good friends, bad friends, and very bad friends // &lt;em&gt;Has raised $2,075 of $3,000 so far. (~69%)&lt;/em&gt;&lt;/td&gt;
+&lt;td align=""left""&gt;? - ?&lt;/td&gt;
+&lt;td align=""left""&gt;18&lt;/td&gt;
+&lt;td align=""left""&gt;$30 / $115&lt;/td&gt;
+&lt;td align=""left""&gt;Nov 28&lt;/td&gt;
+&lt;td align=""left""&gt;&lt;a href=""https://www.kicktraq.com/projects/truefrenemies/true-frenemies/?ref=kicktraq""&gt;kicktraq&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=""left""&gt;&lt;strong&gt;&lt;a href=""https://www.kickstarter.com/projects/ankamaboardgames/arkeis-a-cooperative-story-driven-campaign-board-game/?ref=kicktraq""&gt;Arkeis&lt;/a&gt;&lt;/strong&gt; Steampunk meets ancient Egypt in Arkeis by the authors of 7 Wonders, Cyclades, Sea of Clouds... // &lt;strong&gt;Has raised €210,991 of €70,000 so far. (~301%) ☑&lt;/strong&gt;&lt;/td&gt;
+&lt;td align=""left""&gt;1 - 4&lt;/td&gt;
+&lt;td align=""left""&gt;2098&lt;/td&gt;
+&lt;td align=""left""&gt;$100 / €101&lt;/td&gt;
+&lt;td align=""left""&gt;Nov 28&lt;/td&gt;
+&lt;td align=""left""&gt;&lt;a href=""https://www.kicktraq.com/projects/ankamaboardgames/arkeis-a-cooperative-story-driven-campaign-board-game/?ref=kicktraq""&gt;kicktraq&lt;/a&gt; &lt;a href=""https://boardgamegeek.com/boardgame/275284/arkeis""&gt;bgg&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=""left""&gt;&lt;strong&gt;&lt;a href=""https://www.kickstarter.com/projects/1438234520/breakout-a-pnp-board-game-of-reaching-to-the-other-side/?ref=kicktraq""&gt;Breakout!&lt;/a&gt;&lt;/strong&gt; The 2-player (PnP) board game where breaking through your enemy’s line leads you to your path to victory! // &lt;strong&gt;Has raised $56 of $45 so far. (~124%) ☑&lt;/strong&gt;&lt;/td&gt;
+&lt;td align=""left""&gt;2 - 2&lt;/td&gt;
+&lt;td align=""left""&gt;18&lt;/td&gt;
+&lt;td align=""left""&gt;$1 / $3&lt;/td&gt;
+&lt;td align=""left""&gt;Nov 28&lt;/td&gt;
+&lt;td align=""left""&gt;&lt;a href=""https://www.kicktraq.com/projects/1438234520/breakout-a-pnp-board-game-of-reaching-to-the-other-side/?ref=kicktraq""&gt;kicktraq&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=""left""&gt;&lt;strong&gt;&lt;a href=""https://www.kickstarter.com/projects/funforge/namiji-the-next-chapter-in-the-tokaido-universe/?ref=kicktraq""&gt;Namiji&lt;/a&gt;&lt;/strong&gt; A new stand-alone game brought to you by Antoine Bauza, still featuring Naïade’s outstanding artwork! // &lt;strong&gt;Has raised €397,419 of €50,000 so far. (~794%) ☑&lt;/strong&gt;&lt;/td&gt;
+&lt;td align=""left""&gt;2 - 5&lt;/td&gt;
+&lt;td align=""left""&gt;6016&lt;/td&gt;
+&lt;td align=""left""&gt;$67 / €66&lt;/td&gt;
+&lt;td align=""left""&gt;Nov 29&lt;/td&gt;
+&lt;td align=""left""&gt;&lt;a href=""https://www.kicktraq.com/projects/funforge/namiji-the-next-chapter-in-the-tokaido-universe/?ref=kicktraq""&gt;kicktraq&lt;/a&gt; &lt;a href=""https://boardgamegeek.com/boardgame/275215/namiji""&gt;bgg&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=""left""&gt;&lt;strong&gt;&lt;a href=""https://www.kickstarter.com/projects/lmstudio/dei-divide-et-impera/?ref=kicktraq""&gt;D.E.I.: Divide et Impera&lt;/a&gt;&lt;/strong&gt; D.E.I. - Divide et Impera is a competitive game based on conquests of resources, set in a world devastated by a New Ice Age // &lt;strong&gt;Has raised €202,454 of €85,000 so far. (~238%) ☑&lt;/strong&gt;&lt;/td&gt;
+&lt;td align=""left""&gt;2 - 4&lt;/td&gt;
+&lt;td align=""left""&gt;1831&lt;/td&gt;
+&lt;td align=""left""&gt;$88 / €111&lt;/td&gt;
+&lt;td align=""left""&gt;Nov 29&lt;/td&gt;
+&lt;td align=""left""&gt;&lt;a href=""https://www.kicktraq.com/projects/lmstudio/dei-divide-et-impera/?ref=kicktraq""&gt;kicktraq&lt;/a&gt; &lt;a href=""https://boardgamegeek.com/boardgame/286158/dei-divide-et-impera""&gt;bgg&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=""left""&gt;&lt;strong&gt;&lt;a href=""https://www.kickstarter.com/projects/crime-time/burglar-a-game-so-fun-its-criminal/?ref=kicktraq""&gt;Burglar&lt;/a&gt;&lt;/strong&gt; A game of skill, tactics and memory wrapped up in one neat little 1920s themed package - a great family game for 6 years to 101. // &lt;strong&gt;Has raised £7,471 of £7,000 so far. (~106%) ☑&lt;/strong&gt;&lt;/td&gt;
+&lt;td align=""left""&gt;? - ?&lt;/td&gt;
+&lt;td align=""left""&gt;187&lt;/td&gt;
+&lt;td align=""left""&gt;$26 / £40&lt;/td&gt;
+&lt;td align=""left""&gt;Nov 29&lt;/td&gt;
+&lt;td align=""left""&gt;&lt;a href=""https://www.kicktraq.com/projects/crime-time/burglar-a-game-so-fun-its-criminal/?ref=kicktraq""&gt;kicktraq&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=""left""&gt;&lt;strong&gt;&lt;a href=""https://www.kickstarter.com/projects/1598930181/fill-in-the-game-the-relaunch/?ref=kicktraq""&gt;Fill in the Game&lt;/a&gt;&lt;/strong&gt; Fill in the Game is the party game defined by you. Draw Cards, Challenge Friends, Make Rules, Collect Points, Have a Blast! // &lt;strong&gt;Has raised $1,544 of $1,000 so far. (~154%) ☑&lt;/strong&gt;&lt;/td&gt;
+&lt;td align=""left""&gt;3 - 8&lt;/td&gt;
+&lt;td align=""left""&gt;47&lt;/td&gt;
+&lt;td align=""left""&gt;$20 / $33&lt;/td&gt;
+&lt;td align=""left""&gt;Nov 29&lt;/td&gt;
+&lt;td align=""left""&gt;&lt;a href=""https://www.kicktraq.com/projects/1598930181/fill-in-the-game-the-relaunch/?ref=kicktraq""&gt;kicktraq&lt;/a&gt; &lt;a href=""https://boardgamegeek.com/boardgame/284433/fill-game""&gt;bgg&lt;/a&gt; &lt;code&gt;#take2&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=""left""&gt;&lt;strong&gt;&lt;a href=""https://www.kickstarter.com/projects/unpresidentedgames/trump-the-game-unpresidented/?ref=kicktraq""&gt;Trump The Game UNPRESIDENTED&lt;/a&gt;&lt;/strong&gt; Kickstart Christmas and turn your kitchen table into Congress // &lt;em&gt;Has raised $3,950 AUD of $5,000 AUD so far. (~79%)&lt;/em&gt;&lt;/td&gt;
+&lt;td align=""left""&gt;2 - 4&lt;/td&gt;
+&lt;td align=""left""&gt;30&lt;/td&gt;
+&lt;td align=""left""&gt;$21 / $132 AUD&lt;/td&gt;
+&lt;td align=""left""&gt;Nov 30&lt;/td&gt;
+&lt;td align=""left""&gt;&lt;a href=""https://www.kicktraq.com/projects/unpresidentedgames/trump-the-game-unpresidented/?ref=kicktraq""&gt;kicktraq&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=""left""&gt;&lt;strong&gt;&lt;a href=""https://www.kickstarter.com/projects/superclub/superclub-the-football-manager-board-game/?ref=kicktraq""&gt;Superclub: The Football Manager Board Game&lt;/a&gt;&lt;/strong&gt; An action-packed 2–6 player strategy game for friends, families and other great rivals. // &lt;strong&gt;Has raised kr558,565 NOK of kr150,000 NOK so far. (~372%) ☑&lt;/strong&gt;&lt;/td&gt;
+&lt;td align=""left""&gt;2 - 6&lt;/td&gt;
+&lt;td align=""left""&gt;739&lt;/td&gt;
+&lt;td align=""left""&gt;$77 / kr756 NOK&lt;/td&gt;
+&lt;td align=""left""&gt;Nov 30&lt;/td&gt;
+&lt;td align=""left""&gt;&lt;a href=""https://www.kicktraq.com/projects/superclub/superclub-the-football-manager-board-game/?ref=kicktraq""&gt;kicktraq&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=""left""&gt;&lt;strong&gt;&lt;a href=""https://www.kickstarter.com/projects/1746713398/innsmouth-32-cards-dice-terror/?ref=kicktraq""&gt;Innsmouth 32&lt;/a&gt;&lt;/strong&gt; Pulp horror awaits in this tabletop game that looks like a graphic novel and plays like a horror movie! // &lt;strong&gt;Has raised $17,396 of $9,032 so far. (~192%) ☑&lt;/strong&gt;&lt;/td&gt;
+&lt;td align=""left""&gt;3 - 13&lt;/td&gt;
+&lt;td align=""left""&gt;353&lt;/td&gt;
+&lt;td align=""left""&gt;$35 / $49&lt;/td&gt;
+&lt;td align=""left""&gt;Nov 30&lt;/td&gt;
+&lt;td align=""left""&gt;&lt;a href=""https://www.kicktraq.com/projects/1746713398/innsmouth-32-cards-dice-terror/?ref=kicktraq""&gt;kicktraq&lt;/a&gt; &lt;a href=""https://boardgamegeek.com/boardgame/282058/shuffling-horror-innsmouth-32""&gt;bgg&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=""left""&gt;&lt;strong&gt;&lt;a href=""https://www.kickstarter.com/projects/bewere/bewere-0/?ref=kicktraq""&gt;Bewere&lt;/a&gt;&lt;/strong&gt; This is a card game for people who always wanted to be a werewolf and transform a village into their pack. // &lt;em&gt;Has raised €7,211 of €10,000 so far. (~72%)&lt;/em&gt;&lt;/td&gt;
+&lt;td align=""left""&gt;2 - 5&lt;/td&gt;
+&lt;td align=""left""&gt;191&lt;/td&gt;
+&lt;td align=""left""&gt;$18 / €38&lt;/td&gt;
+&lt;td align=""left""&gt;Nov 30&lt;/td&gt;
+&lt;td align=""left""&gt;&lt;a href=""https://www.kicktraq.com/projects/bewere/bewere-0/?ref=kicktraq""&gt;kicktraq&lt;/a&gt; &lt;a href=""https://boardgamegeek.com/boardgame/285282/bewere""&gt;bgg&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=""left""&gt;&lt;strong&gt;&lt;a href=""https://www.kickstarter.com/projects/omm/hey-cutie-the-tabletop-dating-sim/?ref=kicktraq""&gt;Hey Cutie&lt;/a&gt;&lt;/strong&gt; Crush on vampires, woo sexy cyborgs, and sabotage your opponents&amp;#39; love lives in this quirky card game. // &lt;strong&gt;Has raised $5,787 of $3,000 so far. (~192%) ☑&lt;/strong&gt;&lt;/td&gt;
+&lt;td align=""left""&gt;2 - 5&lt;/td&gt;
+&lt;td align=""left""&gt;124&lt;/td&gt;
+&lt;td align=""left""&gt;$30 / $47&lt;/td&gt;
+&lt;td align=""left""&gt;Nov 30&lt;/td&gt;
+&lt;td align=""left""&gt;&lt;a href=""https://www.kicktraq.com/projects/omm/hey-cutie-the-tabletop-dating-sim/?ref=kicktraq""&gt;kicktraq&lt;/a&gt; &lt;code&gt;#take2&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=""left""&gt;&lt;strong&gt;&lt;a href=""https://www.kickstarter.com/projects/ludodi/beffababbo/?ref=kicktraq""&gt;BeffaBabbo (PnP)&lt;/a&gt;&lt;/strong&gt; A PnP card game where Santa Claus, Befana, Easter Bunny and Jack O’Lantern fight one another with….gift boxes! Play Christmas ; ) // &lt;strong&gt;Has raised €107 of €100 so far. (~107%) ☑&lt;/strong&gt;&lt;/td&gt;
+&lt;td align=""left""&gt;4 - 4&lt;/td&gt;
+&lt;td align=""left""&gt;16&lt;/td&gt;
+&lt;td align=""left""&gt;$3 / €7&lt;/td&gt;
+&lt;td align=""left""&gt;Nov 30&lt;/td&gt;
+&lt;td align=""left""&gt;&lt;a href=""https://www.kicktraq.com/projects/ludodi/beffababbo/?ref=kicktraq""&gt;kicktraq&lt;/a&gt; &lt;code&gt;#take2&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=""left""&gt;&lt;strong&gt;&lt;a href=""https://www.kickstarter.com/projects/239309591/button-shy-wallet-games-reprint-campaign/?ref=kicktraq""&gt;Button Shy Wallet Games - Reprint Campaign&lt;/a&gt;&lt;/strong&gt; A reprint campaign for some of the long lost Button Shy titles. All games chosen by the backers! // &lt;strong&gt;Has raised $26,718 of $3,500 so far. (~763%) ☑&lt;/strong&gt;&lt;/td&gt;
+&lt;td align=""left""&gt;? - ?&lt;/td&gt;
+&lt;td align=""left""&gt;837&lt;/td&gt;
+&lt;td align=""left""&gt;$10 / $32&lt;/td&gt;
+&lt;td align=""left""&gt;Nov 30&lt;/td&gt;
+&lt;td align=""left""&gt;&lt;a href=""https://www.kicktraq.com/projects/239309591/button-shy-wallet-games-reprint-campaign/?ref=kicktraq""&gt;kicktraq&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=""left""&gt;&lt;strong&gt;&lt;a href=""https://www.kickstarter.com/projects/836297151/a-satirical-board-game-laugh-dont-cry/?ref=kicktraq""&gt;disgRACE to The White House, a satirical board game.&lt;/a&gt;&lt;/strong&gt; A buzzy, celebrated piece of popular culture. Laugh, don&amp;#39;t cry. // &lt;em&gt;Has raised $7,697 of $13,000 so far. (~59%)&lt;/em&gt;&lt;/td&gt;
+&lt;td align=""left""&gt;2 - 6&lt;/td&gt;
+&lt;td align=""left""&gt;89&lt;/td&gt;
+&lt;td align=""left""&gt;$75 / $86&lt;/td&gt;
+&lt;td align=""left""&gt;Dec 01&lt;/td&gt;
+&lt;td align=""left""&gt;&lt;a href=""https://www.kicktraq.com/projects/836297151/a-satirical-board-game-laugh-dont-cry/?ref=kicktraq""&gt;kicktraq&lt;/a&gt; &lt;a href=""https://boardgamegeek.com/boardgame/261489/disgrace-white-house""&gt;bgg&lt;/a&gt; &lt;code&gt;#hmm&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=""left""&gt;&lt;strong&gt;&lt;a href=""https://www.kickstarter.com/projects/boardgamehub/tranquility-a-co-operative-card-game/?ref=kicktraq""&gt;Tranquility&lt;/a&gt;&lt;/strong&gt; Please help us bring to life this intense and captivating co-operative experience. // &lt;strong&gt;Has raised £20,399 of £7,000 so far. (~291%) ☑&lt;/strong&gt;&lt;/td&gt;
+&lt;td align=""left""&gt;1 - 5&lt;/td&gt;
+&lt;td align=""left""&gt;1556&lt;/td&gt;
+&lt;td align=""left""&gt;$16 / £13&lt;/td&gt;
+&lt;td align=""left""&gt;Dec 01&lt;/td&gt;
+&lt;td align=""left""&gt;&lt;a href=""https://www.kicktraq.com/projects/boardgamehub/tranquility-a-co-operative-card-game/?ref=kicktraq""&gt;kicktraq&lt;/a&gt; &lt;a href=""https://boardgamegeek.com/boardgame/288513/tranquility""&gt;bgg&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;
+
+&lt;h2&gt;New This Week&lt;/h2&gt;
+
+&lt;table&gt;&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=""left""&gt;Project Info&lt;/th&gt;
+&lt;th align=""left""&gt;Players&lt;/th&gt;
+&lt;th align=""left""&gt;Backers&lt;/th&gt;
+&lt;th align=""left""&gt;Min / Avg Pledge&lt;/th&gt;
+&lt;th align=""left""&gt;Ends&lt;/th&gt;
+&lt;th align=""left""&gt;Comments&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td align=""left""&gt;&lt;strong&gt;&lt;a href=""https://www.kickstarter.com/projects/phalanxgames/1941-race-to-moscow/?ref=kicktraq""&gt;1941: Race to Moscow&lt;/a&gt;&lt;/strong&gt; How to plan and execute the largest military campaign in history? Find it out in 1-3.5 player, 90 minutes logistic take on Barbarossa. // &lt;strong&gt;Has raised £57,783 of £50,000 so far. (~115%) ☑&lt;/strong&gt;&lt;/td&gt;
+&lt;td align=""left""&gt;1 - 4&lt;/td&gt;
+&lt;td align=""left""&gt;999&lt;/td&gt;
+&lt;td align=""left""&gt;$78 / £58&lt;/td&gt;
+&lt;td align=""left""&gt;Dec 11&lt;/td&gt;
+&lt;td align=""left""&gt;&lt;a href=""https://boardgamegeek.com/boardgame/190572/1941-race-moscow""&gt;bgg&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=""left""&gt;&lt;strong&gt;&lt;a href=""https://www.kickstarter.com/projects/mikegnade/alderquest/?ref=kicktraq""&gt;AlderQuest&lt;/a&gt;&lt;/strong&gt; A 1-4 player area control game of animal guilds competing to find and match acorns before the start of winter. // &lt;em&gt;Has raised $7,144 of $24,000 so far. (~29%)&lt;/em&gt;&lt;/td&gt;
+&lt;td align=""left""&gt;1 - 4&lt;/td&gt;
+&lt;td align=""left""&gt;162&lt;/td&gt;
+&lt;td align=""left""&gt;$39 / $44&lt;/td&gt;
+&lt;td align=""left""&gt;Dec 13&lt;/td&gt;
+&lt;td align=""left""&gt;&lt;a href=""https://boardgamegeek.com/boardgame/253420/alderquest""&gt;bgg&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=""left""&gt;&lt;strong&gt;&lt;a href=""https://www.kickstarter.com/projects/annihilationtcg/annihilation-0/?ref=kicktraq""&gt;Annihilation&lt;/a&gt;&lt;/strong&gt; A trading card game with a unique system of play. Using resources to stay alive and dominate your opponent. // &lt;em&gt;Has raised £51 of £14,900 so far. (~0%)&lt;/em&gt;&lt;/td&gt;
+&lt;td align=""left""&gt;2 - 2&lt;/td&gt;
+&lt;td align=""left""&gt;2&lt;/td&gt;
+&lt;td align=""left""&gt;$20 / £26&lt;/td&gt;
+&lt;td align=""left""&gt;Dec 22&lt;/td&gt;
+&lt;td align=""left""&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=""left""&gt;&lt;strong&gt;&lt;a href=""https://www.kickstarter.com/projects/wca6405/any-given-sunday/?ref=kicktraq""&gt;Any Given Sunday!&lt;/a&gt;&lt;/strong&gt; The Ultimate Football Game // &lt;em&gt;Has raised $105 of $25,000 so far. (~0%)&lt;/em&gt;&lt;/td&gt;
+&lt;td align=""left""&gt;1 - 2&lt;/td&gt;
+&lt;td align=""left""&gt;7&lt;/td&gt;
+&lt;td align=""left""&gt;$50 / $15&lt;/td&gt;
+&lt;td align=""left""&gt;Dec 19&lt;/td&gt;
+&lt;td align=""left""&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=""left""&gt;&lt;strong&gt;&lt;a href=""https://www.kickstarter.com/projects/blueflamegames/apidaia-the-game-about-bees/?ref=kicktraq""&gt;Apidaia&lt;/a&gt;&lt;/strong&gt; Apidaia is a light to medium 2-6 player asymmetric world exploring, worker placement, resource management, engine builder. // &lt;strong&gt;Has raised $5,062 of $4,500 so far. (~112%) ☑&lt;/strong&gt;&lt;/td&gt;
+&lt;td align=""left""&gt;2 - 6&lt;/td&gt;
+&lt;td align=""left""&gt;92&lt;/td&gt;
+&lt;td align=""left""&gt;$39 / $55&lt;/td&gt;
+&lt;td align=""left""&gt;Dec 18&lt;/td&gt;
+&lt;td align=""left""&gt;&lt;a href=""https://boardgamegeek.com/boardgame/274031/apidaia""&gt;bgg&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=""left""&gt;&lt;strong&gt;&lt;a href=""https://www.kickstarter.com/projects/battleboargames/arcane-blaster-casters/?ref=kicktraq""&gt;Arcane Blaster Casters&lt;/a&gt;&lt;/strong&gt; A 2-8 player board game of magical mastery! // &lt;em&gt;Has raised £2,059 of £13,000 so far. (~15%)&lt;/em&gt;&lt;/td&gt;
+&lt;td align=""left""&gt;2 - 8&lt;/td&gt;
+&lt;td align=""left""&gt;53&lt;/td&gt;
+&lt;td align=""left""&gt;$45 / £39&lt;/td&gt;
+&lt;td align=""left""&gt;Dec 08&lt;/td&gt;
+&lt;td align=""left""&gt;&lt;a href=""https://boardgamegeek.com/boardgame/294008/arcane-blaster-casters""&gt;bgg&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=""left""&gt;&lt;strong&gt;&lt;a href=""https://www.kickstarter.com/projects/kozz/balk-new-release/?ref=kicktraq""&gt;Balk - New Release&lt;/a&gt;&lt;/strong&gt; Awesome Card Game! Great Holiday Gift! // &lt;strong&gt;Has raised $3,163 of $500 so far. (~632%) ☑&lt;/strong&gt;&lt;/td&gt;
+&lt;td align=""left""&gt;2 - 4&lt;/td&gt;
+&lt;td align=""left""&gt;132&lt;/td&gt;
+&lt;td align=""left""&gt;$8 / $24&lt;/td&gt;
+&lt;td align=""left""&gt;Dec 02&lt;/td&gt;
+&lt;td align=""left""&gt;&lt;a href=""https://boardgamegeek.com/boardgame/279649/balk""&gt;bgg&lt;/a&gt; &lt;code&gt;#newedition&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=""left""&gt;&lt;strong&gt;&lt;a href=""https://www.kickstarter.com/projects/1819623788/best-budz-the-game/?ref=kicktraq""&gt;Best Budz The Game&lt;/a&gt;&lt;/strong&gt; A card game for 2 to 4 players, about growing marijuana and building your stash, while stopping your opponents from doing the same. // &lt;em&gt;Has raised $215 CAD of $800 CAD so far. (~26%)&lt;/em&gt;&lt;/td&gt;
+&lt;td align=""left""&gt;2 - 4&lt;/td&gt;
+&lt;td align=""left""&gt;9&lt;/td&gt;
+&lt;td align=""left""&gt;$16 / $24 CAD&lt;/td&gt;
+&lt;td align=""left""&gt;Dec 21&lt;/td&gt;
+&lt;td align=""left""&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=""left""&gt;&lt;strong&gt;&lt;a href=""https://www.kickstarter.com/projects/239309591/button-shy-wallet-games-reprint-campaign/?ref=kicktraq""&gt;Button Shy Wallet Games - Reprint Campaign&lt;/a&gt;&lt;/strong&gt; A reprint campaign for some of the long lost Button Shy titles. All games chosen by the backers! // &lt;strong&gt;Has raised $26,718 of $3,500 so far. (~763%) ☑&lt;/strong&gt;&lt;/td&gt;
+&lt;td align=""left""&gt;? - ?&lt;/td&gt;
+&lt;td align=""left""&gt;837&lt;/td&gt;
+&lt;td align=""left""&gt;$10 / $32&lt;/td&gt;
+&lt;td align=""left""&gt;Nov 30&lt;/td&gt;
+&lt;td align=""left""&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=""left""&gt;&lt;strong&gt;&lt;a href=""https://www.kickstarter.com/projects/capcap/capcap/?ref=kicktraq""&gt;CAPCAP&lt;/a&gt;&lt;/strong&gt; Eco-friendly, adult drinking game intended to make your social gatherings more enjoyable with some healthy competition! // &lt;em&gt;Has raised $1 CAD of $2,500 CAD so far. (~0%)&lt;/em&gt;&lt;/td&gt;
+&lt;td align=""left""&gt;2 - 6&lt;/td&gt;
+&lt;td align=""left""&gt;1&lt;/td&gt;
+&lt;td align=""left""&gt;$38 / NA&lt;/td&gt;
+&lt;td align=""left""&gt;Nov 29&lt;/td&gt;
+&lt;td align=""left""&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=""left""&gt;&lt;strong&gt;&lt;a href=""https://www.kickstarter.com/projects/socialstax/city-childrens-app-brought-to-life/?ref=kicktraq""&gt;City: Children&amp;#39;s App Brought to Life&lt;/a&gt;&lt;/strong&gt; This is City. And ongoing board game fueled on Imagination, Creativity, and fun! A children&amp;#39;s App brought to life. // &lt;em&gt;Has raised $2 CAD of $6,000 CAD so far. (~0%)&lt;/em&gt;&lt;/td&gt;
+&lt;td align=""left""&gt;? - ?&lt;/td&gt;
+&lt;td align=""left""&gt;2&lt;/td&gt;
+&lt;td align=""left""&gt;$23 / $1 CAD&lt;/td&gt;
+&lt;td align=""left""&gt;Dec 20&lt;/td&gt;
+&lt;td align=""left""&gt;&lt;code&gt;#expansion&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=""left""&gt;&lt;strong&gt;&lt;a href=""https://www.kickstarter.com/projects/diemensiongames/dawn-of-madness/?ref=kicktraq""&gt;Dawn of Madness&lt;/a&gt;&lt;/strong&gt; A 1-4 player story-driven cooperative game that is a true mind-shattering horror experience in a board game. // &lt;strong&gt;Has raised $813,005 of $100,000 so far. (~813%) ☑&lt;/strong&gt;&lt;/td&gt;
+&lt;td align=""left""&gt;1 - 4&lt;/td&gt;
+&lt;td align=""left""&gt;6797&lt;/td&gt;
+&lt;td align=""left""&gt;$79 / $120&lt;/td&gt;
+&lt;td align=""left""&gt;Dec 17&lt;/td&gt;
+&lt;td align=""left""&gt;&lt;a href=""https://boardgamegeek.com/boardgamepublisher/33081/diemension-games""&gt;bgg&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=""left""&gt;&lt;strong&gt;&lt;a href=""https://www.kickstarter.com/projects/goblivion/dinoblivion-conquer-the-land-of-the-dinosaurs/?ref=kicktraq""&gt;Dinoblivion&lt;/a&gt;&lt;/strong&gt; Combines Deck Building, Tableau Building, Resource Management and Multi-Use Cards to Take Over a Land Dominated by Dinosaurs. // &lt;strong&gt;Has raised $33,123 CAD of $26,000 CAD so far. (~127%) ☑&lt;/strong&gt;&lt;/td&gt;
+&lt;td align=""left""&gt;1 - 2&lt;/td&gt;
+&lt;td align=""left""&gt;679&lt;/td&gt;
+&lt;td align=""left""&gt;$25 / $49 CAD&lt;/td&gt;
+&lt;td align=""left""&gt;Dec 10&lt;/td&gt;
+&lt;td align=""left""&gt;&lt;a href=""https://boardgamegeek.com/boardgame/262188/dinoblivion""&gt;bgg&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=""left""&gt;&lt;strong&gt;&lt;a href=""https://www.kickstarter.com/projects/larianstudios/divinity-original-sin-the-board-game/?ref=kicktraq""&gt;Divinity Original Sin the Board Game&lt;/a&gt;&lt;/strong&gt; Divinity Original Sin the Board Game is a cooperative, storytelling adventure game set in the Chronicle System. // &lt;strong&gt;Has raised $679,259 of $160,000 so far. (~424%) ☑&lt;/strong&gt;&lt;/td&gt;
+&lt;td align=""left""&gt;1 - 4&lt;/td&gt;
+&lt;td align=""left""&gt;3764&lt;/td&gt;
+&lt;td align=""left""&gt;$120 / $180&lt;/td&gt;
+&lt;td align=""left""&gt;Dec 20&lt;/td&gt;
+&lt;td align=""left""&gt;&lt;a href=""https://boardgamegeek.com/boardgame/294378/divinity-original-sin-board-game""&gt;bgg&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=""left""&gt;&lt;strong&gt;&lt;a href=""https://www.kickstarter.com/projects/1327475206/dr-davenports-dirty-dice-game/?ref=kicktraq""&gt;Dr. Davenport&amp;#39;s Dirty Dice Game&lt;/a&gt;&lt;/strong&gt; Dr. Davenport&amp;#39;s Dirty Dice is a humorous game: try to get your friends and family into therapy and onto Dr. Davenports couch! // &lt;em&gt;Has raised $63 of $500 so far. (~12%)&lt;/em&gt;&lt;/td&gt;
+&lt;td align=""left""&gt;2 - ?&lt;/td&gt;
+&lt;td align=""left""&gt;3&lt;/td&gt;
+&lt;td align=""left""&gt;$25 / $21&lt;/td&gt;
+&lt;td align=""left""&gt;Dec 22&lt;/td&gt;
+&lt;td align=""left""&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=""left""&gt;&lt;strong&gt;&lt;a href=""https://www.kickstarter.com/projects/1812622835/ducks-in-tow/?ref=kicktraq""&gt;Ducks in Tow&lt;/a&gt;&lt;/strong&gt; A 2-4 player game of getting your ducks in a row! // &lt;em&gt;Has raised $8,497 CAD of $18,800 CAD so far. (~45%)&lt;/em&gt;&lt;/td&gt;
+&lt;td align=""left""&gt;2 - 4&lt;/td&gt;
+&lt;td align=""left""&gt;216&lt;/td&gt;
+&lt;td align=""left""&gt;$34 / $39 CAD&lt;/td&gt;
+&lt;td align=""left""&gt;Dec 12&lt;/td&gt;
+&lt;td align=""left""&gt;&lt;a href=""https://boardgamegeek.com/boardgame/283641/ducks-tow""&gt;bgg&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=""left""&gt;&lt;strong&gt;&lt;a href=""https://www.kickstarter.com/projects/oldbean/dump-the-chump-the-mitch-mcconnell-edition/?ref=kicktraq""&gt;Dump the Chump: The Mitch McConnell Edition&lt;/a&gt;&lt;/strong&gt; A cooperative card game for dumping failing politicians // &lt;em&gt;Has raised $51 of $5,000 so far. (~1%)&lt;/em&gt;&lt;/td&gt;
+&lt;td align=""left""&gt;2 - 5&lt;/td&gt;
+&lt;td align=""left""&gt;3&lt;/td&gt;
+&lt;td align=""left""&gt;$25 / $17&lt;/td&gt;
+&lt;td align=""left""&gt;Dec 03&lt;/td&gt;
+&lt;td align=""left""&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=""left""&gt;&lt;strong&gt;&lt;a href=""https://www.kickstarter.com/projects/stoneswordgames/hogs-of-war-the-card-game/?ref=kicktraq""&gt;Hogs Of War The Card Game&lt;/a&gt;&lt;/strong&gt; A card game adaptation of the beloved cult-classic PS1 Video Game title Hogs Of War. // &lt;strong&gt;Has raised £8,811 of £6,000 so far. (~146%) ☑&lt;/strong&gt;&lt;/td&gt;
+&lt;td align=""left""&gt;2 - 2&lt;/td&gt;
+&lt;td align=""left""&gt;360&lt;/td&gt;
+&lt;td align=""left""&gt;$20 / £24&lt;/td&gt;
+&lt;td align=""left""&gt;Dec 19&lt;/td&gt;
+&lt;td align=""left""&gt;&lt;a href=""https://boardgamegeek.com/boardgame/294252/hogs-war-card-game""&gt;bgg&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=""left""&gt;&lt;strong&gt;&lt;a href=""https://www.kickstarter.com/projects/kryptogram/kryptogram/?ref=kicktraq""&gt;Kryptogram&lt;/a&gt;&lt;/strong&gt; A TableTop word game where you race to spell 4-letter words. // &lt;em&gt;Has raised $188 CAD of $20,000 CAD so far. (~0%)&lt;/em&gt;&lt;/td&gt;
+&lt;td align=""left""&gt;2 - 6&lt;/td&gt;
+&lt;td align=""left""&gt;9&lt;/td&gt;
+&lt;td align=""left""&gt;$21 / $21 CAD&lt;/td&gt;
+&lt;td align=""left""&gt;Dec 22&lt;/td&gt;
+&lt;td align=""left""&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=""left""&gt;&lt;strong&gt;&lt;a href=""https://www.kickstarter.com/projects/magnategame/magnate-the-first-city/?ref=kicktraq""&gt;Magnate: The First City&lt;/a&gt;&lt;/strong&gt; Magnate is an exciting property/city building strategy game for 1-5 players. Make as much money as you can before the market crashes! // &lt;strong&gt;Has raised $32,509 of $17,000 so far. (~191%) ☑&lt;/strong&gt;&lt;/td&gt;
+&lt;td align=""left""&gt;1 - 5&lt;/td&gt;
+&lt;td align=""left""&gt;368&lt;/td&gt;
+&lt;td align=""left""&gt;$69 / $88&lt;/td&gt;
+&lt;td align=""left""&gt;Dec 12&lt;/td&gt;
+&lt;td align=""left""&gt;&lt;a href=""https://boardgamegeek.com/boardgame/258242/magnate-first-city""&gt;bgg&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=""left""&gt;&lt;strong&gt;&lt;a href=""https://www.kickstarter.com/projects/grailgames/medici-the-dice-game-kinizias-medici-family-expands/?ref=kicktraq""&gt;Medici: The Dice Game&lt;/a&gt;&lt;/strong&gt; Medici: The Dice Game is a new design by Reiner Knizia that shares the setting and feel of his classic Medici board game... with dice! // &lt;strong&gt;Has raised $23,354 AUD of $10,000 AUD so far. (~233%) ☑&lt;/strong&gt;&lt;/td&gt;
+&lt;td align=""left""&gt;2 - 4&lt;/td&gt;
+&lt;td align=""left""&gt;400&lt;/td&gt;
+&lt;td align=""left""&gt;$20 / $58 AUD&lt;/td&gt;
+&lt;td align=""left""&gt;Dec 05&lt;/td&gt;
+&lt;td align=""left""&gt;&lt;a href=""https://boardgamegeek.com/boardgame/291511/medici-dice-game""&gt;bgg&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=""left""&gt;&lt;strong&gt;&lt;a href=""https://www.kickstarter.com/projects/newburyrain/movie-battle/?ref=kicktraq""&gt;Movie Battle&lt;/a&gt;&lt;/strong&gt; A strategic card game with fast-paced duels &amp;amp; unexpected endings. // &lt;em&gt;Has raised $1,674 of $5,000 so far. (~33%)&lt;/em&gt;&lt;/td&gt;
+&lt;td align=""left""&gt;? - ?&lt;/td&gt;
+&lt;td align=""left""&gt;34&lt;/td&gt;
+&lt;td align=""left""&gt;$30 / $49&lt;/td&gt;
+&lt;td align=""left""&gt;Dec 18&lt;/td&gt;
+&lt;td align=""left""&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=""left""&gt;&lt;strong&gt;&lt;a href=""https://www.kickstarter.com/projects/analoggamestudios/on-pointe-the-ballet-board-game-0/?ref=kicktraq""&gt;On Pointe&lt;/a&gt;&lt;/strong&gt; In pursuit to become Prima, collect gems &amp;amp; treasures in a set collection ballet themed game. // &lt;em&gt;Has raised $1,714 CAD of $1,900 CAD so far. (~90%)&lt;/em&gt;&lt;/td&gt;
+&lt;td align=""left""&gt;2 - 4&lt;/td&gt;
+&lt;td align=""left""&gt;55&lt;/td&gt;
+&lt;td align=""left""&gt;$30 / $31 CAD&lt;/td&gt;
+&lt;td align=""left""&gt;Dec 12&lt;/td&gt;
+&lt;td align=""left""&gt;&lt;a href=""https://boardgamegeek.com/boardgame/267052/pointe-ballet-board-game""&gt;bgg&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=""left""&gt;&lt;strong&gt;&lt;a href=""https://www.kickstarter.com/projects/flyingcarpetgames/orchards-a-competitive-fruit-farming-game-for-2-4-players/?ref=kicktraq""&gt;Orchards&lt;/a&gt;&lt;/strong&gt; Plant, grow, harvest and sell your fruit at the market in this fruit farming game. // &lt;em&gt;Has raised $784 AUD of $24,500 AUD so far. (~3%)&lt;/em&gt;&lt;/td&gt;
+&lt;td align=""left""&gt;2 - 4&lt;/td&gt;
+&lt;td align=""left""&gt;9&lt;/td&gt;
+&lt;td align=""left""&gt;$56 / $87 AUD&lt;/td&gt;
+&lt;td align=""left""&gt;Dec 18&lt;/td&gt;
+&lt;td align=""left""&gt;&lt;a href=""https://boardgamegeek.com/boardgame/293823/orchards""&gt;bgg&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=""left""&gt;&lt;strong&gt;&lt;a href=""https://www.kickstarter.com/projects/goodlookingrichard/outrun/?ref=kicktraq""&gt;Outrun&lt;/a&gt;&lt;/strong&gt; Competitive real-time reflex/pattern matching card game // &lt;em&gt;Has raised £1,467 of £5,000 so far. (~29%)&lt;/em&gt;&lt;/td&gt;
+&lt;td align=""left""&gt;2 - 6&lt;/td&gt;
+&lt;td align=""left""&gt;55&lt;/td&gt;
+&lt;td align=""left""&gt;$29 / £27&lt;/td&gt;
+&lt;td align=""left""&gt;Dec 19&lt;/td&gt;
+&lt;td align=""left""&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=""left""&gt;&lt;strong&gt;&lt;a href=""https://www.kickstarter.com/projects/reversogames/pichenotte-football/?ref=kicktraq""&gt;Pichenotte Football&lt;/a&gt;&lt;/strong&gt; A Great Flicking Game for family and friends ! A surprising strategy and dexterity game. // &lt;em&gt;Has raised $1,840 CAD of $35,000 CAD so far. (~5%)&lt;/em&gt;&lt;/td&gt;
+&lt;td align=""left""&gt;2 - 2&lt;/td&gt;
+&lt;td align=""left""&gt;19&lt;/td&gt;
+&lt;td align=""left""&gt;$28 / $97 CAD&lt;/td&gt;
+&lt;td align=""left""&gt;Dec 20&lt;/td&gt;
+&lt;td align=""left""&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=""left""&gt;&lt;strong&gt;&lt;a href=""https://www.kickstarter.com/projects/pot/pot-luck/?ref=kicktraq""&gt;Pot Luck Returns&lt;/a&gt;&lt;/strong&gt; Fun and Exciting Retro Board Game where you can buy, sell and deal pot right in your own living room // &lt;em&gt;Has raised $215 of $10,000 so far. (~2%)&lt;/em&gt;&lt;/td&gt;
+&lt;td align=""left""&gt;2 - 6&lt;/td&gt;
+&lt;td align=""left""&gt;6&lt;/td&gt;
+&lt;td align=""left""&gt;$49 / $36&lt;/td&gt;
+&lt;td align=""left""&gt;Dec 29&lt;/td&gt;
+&lt;td align=""left""&gt;&lt;a href=""https://boardgamegeek.com/boardgame/10970/pot-luck""&gt;bgg&lt;/a&gt; &lt;code&gt;#lolwut&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=""left""&gt;&lt;strong&gt;&lt;a href=""https://www.kickstarter.com/projects/shaolinchess/shaolin-chess-0/?ref=kicktraq""&gt;Shaolin Chess&lt;/a&gt;&lt;/strong&gt; A Chess/Chinese Checkers Hybrid. Master the Shaolin Styles fighting against up to 5 of your friends in 5 game modes of epic battles. // &lt;em&gt;Has raised $947 of $12,000 so far. (~7%)&lt;/em&gt;&lt;/td&gt;
+&lt;td align=""left""&gt;2 - 6&lt;/td&gt;
+&lt;td align=""left""&gt;11&lt;/td&gt;
+&lt;td align=""left""&gt;$35 / $86&lt;/td&gt;
+&lt;td align=""left""&gt;Dec 20&lt;/td&gt;
+&lt;td align=""left""&gt;&lt;a href=""https://boardgamegeek.com/boardgame/293007/shaolin-chess""&gt;bgg&lt;/a&gt; &lt;code&gt;#take2&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=""left""&gt;&lt;strong&gt;&lt;a href=""https://www.kickstarter.com/projects/99575233/slip-strike/?ref=kicktraq""&gt;Slip Strike&lt;/a&gt;&lt;/strong&gt; Two agents battle each other in another dimension while utilizing teleportation and time-traveling to survive. // &lt;em&gt;Has raised $3,538 of $6,000 so far. (~58%)&lt;/em&gt;&lt;/td&gt;
+&lt;td align=""left""&gt;2 - 2&lt;/td&gt;
+&lt;td align=""left""&gt;122&lt;/td&gt;
+&lt;td align=""left""&gt;$14 / $29&lt;/td&gt;
+&lt;td align=""left""&gt;Dec 14&lt;/td&gt;
+&lt;td align=""left""&gt;&lt;a href=""https://boardgamegeek.com/boardgame/285234/slip-strike""&gt;bgg&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=""left""&gt;&lt;strong&gt;&lt;a href=""https://www.kickstarter.com/projects/theblackheart/the-black-heart/?ref=kicktraq""&gt;The Black Heart&lt;/a&gt;&lt;/strong&gt; A game that blends classic dominoes, card and resource management into one simple yet addictive experience with a dark twist. // &lt;em&gt;Has raised £152 of £4,820 so far. (~3%)&lt;/em&gt;&lt;/td&gt;
+&lt;td align=""left""&gt;2 - 2&lt;/td&gt;
+&lt;td align=""left""&gt;7&lt;/td&gt;
+&lt;td align=""left""&gt;$44 / £22&lt;/td&gt;
+&lt;td align=""left""&gt;Dec 20&lt;/td&gt;
+&lt;td align=""left""&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=""left""&gt;&lt;strong&gt;&lt;a href=""https://www.kickstarter.com/projects/tradewarcardgame/trade-war-card-game/?ref=kicktraq""&gt;Trade War Card Game&lt;/a&gt;&lt;/strong&gt; A card game that ends the trade war and makes the world great again. // &lt;em&gt;Has raised $1,027 of $10,000 so far. (~10%)&lt;/em&gt;&lt;/td&gt;
+&lt;td align=""left""&gt;2 - 6&lt;/td&gt;
+&lt;td align=""left""&gt;24&lt;/td&gt;
+&lt;td align=""left""&gt;$26 / $43&lt;/td&gt;
+&lt;td align=""left""&gt;Dec 19&lt;/td&gt;
+&lt;td align=""left""&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=""left""&gt;&lt;strong&gt;&lt;a href=""https://www.kickstarter.com/projects/braincrack-games/venice-beautiful-groundbreaking-eurogame-for-1-5-players/?ref=kicktraq""&gt;Venice&lt;/a&gt;&lt;/strong&gt; Explore Inquisition-era Venice in this inventive worker placement game by Dávid Turczi and Andrei Novac with beautiful art and pieces. // &lt;strong&gt;Has raised £44,932 of £20,000 so far. (~224%) ☑&lt;/strong&gt;&lt;/td&gt;
+&lt;td align=""left""&gt;1 - 5&lt;/td&gt;
+&lt;td align=""left""&gt;962&lt;/td&gt;
+&lt;td align=""left""&gt;$51 / £47&lt;/td&gt;
+&lt;td align=""left""&gt;Dec 15&lt;/td&gt;
+&lt;td align=""left""&gt;&lt;a href=""https://boardgamegeek.com/boardgame/274861/venice""&gt;bgg&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=""left""&gt;&lt;strong&gt;&lt;a href=""https://www.kickstarter.com/projects/wohrf/we-only-have-room-for/?ref=kicktraq""&gt;We Only Have Room For...&lt;/a&gt;&lt;/strong&gt; Don&amp;#39;t be the worst and maybe you&amp;#39;ll survive. Single elimination card game. // &lt;em&gt;Has raised $602 of $16,000 so far. (~3%)&lt;/em&gt;&lt;/td&gt;
+&lt;td align=""left""&gt;3 - 10&lt;/td&gt;
+&lt;td align=""left""&gt;10&lt;/td&gt;
+&lt;td align=""left""&gt;$30 / $60&lt;/td&gt;
+&lt;td align=""left""&gt;Jan 18&lt;/td&gt;
+&lt;td align=""left""&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=""left""&gt;&lt;strong&gt;&lt;a href=""https://www.kickstarter.com/projects/1795975411/work-it-with-the-wingadoos/?ref=kicktraq""&gt;Work IT!&lt;/a&gt;&lt;/strong&gt; A card game that puts a fun spin on financial literacy // &lt;em&gt;Has raised $5,399 of $15,000 so far. (~35%)&lt;/em&gt;&lt;/td&gt;
+&lt;td align=""left""&gt;? - ?&lt;/td&gt;
+&lt;td align=""left""&gt;79&lt;/td&gt;
+&lt;td align=""left""&gt;$24 / $68&lt;/td&gt;
+&lt;td align=""left""&gt;Dec 19&lt;/td&gt;
+&lt;td align=""left""&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=""left""&gt;&lt;strong&gt;&lt;a href=""https://www.kickstarter.com/projects/zonedout/zoned-out/?ref=kicktraq""&gt;Zoned Out&lt;/a&gt;&lt;/strong&gt; A fast, fun and easy to learn, city building game with a stunning table presence. // &lt;em&gt;Has raised $2,828 of $4,000 so far. (~70%)&lt;/em&gt;&lt;/td&gt;
+&lt;td align=""left""&gt;2 - 4&lt;/td&gt;
+&lt;td align=""left""&gt;110&lt;/td&gt;
+&lt;td align=""left""&gt;$29 / $26&lt;/td&gt;
+&lt;td align=""left""&gt;Dec 05&lt;/td&gt;
+&lt;td align=""left""&gt;&lt;a href=""https://boardgamegeek.com/boardgame/249166/zoned-out""&gt;bgg&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;
+
+&lt;h2&gt;Need moar Kickstarter goodness?&lt;/h2&gt;
+
+&lt;p&gt;Check out... &lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;My &lt;a href=""https://airtable.com/shrioIkpOb33jjrcw""&gt;Calendar of Announced Kickstarters&lt;/a&gt; (&lt;a href=""https://airtable.com/shrioIkpOb33jjrcw/iCal?timeZone=America%2FLos_Angeles&amp;amp;userLocale=en""&gt;Also available in iCal flavor&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;My interactive AirTable view of &lt;a href=""https://airtable.com/shrL0m86v0xDjRKbe""&gt;all active board game kickstarter campaigns&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;BoardGameGeek&amp;#39;s variety of &lt;a href=""https://boardgamegeek.com/geeklist/166152/kickstarter-project-metalist""&gt;Kickstarter-oriented Geeklists&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=""https://www.kicktraq.com/categories/games/tabletop%20games/""&gt;Kicktraq&amp;#39;s data-driven views&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2&gt;Footnotes&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;#hmm&lt;/code&gt; means that something about the project seems a little off. Buyer beware kinda thing.&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;#lolwut&lt;/code&gt; is reserved for projects that seem like copycat games or campaigns put together with little thought. Check &amp;#39;em out for amusement.&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;#take&lt;/code&gt; tags are for projects that have been restarted for some reason, with the number indicating what iteration we&amp;#39;re currently on.&lt;/li&gt;
+&lt;li&gt;Did I miss something? Particularly something &lt;strong&gt;new in the last 7 days&lt;/strong&gt; or &lt;strong&gt;ending in the next 7 days&lt;/strong&gt;? Let me know in the comments and I&amp;#39;ll add it in.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2&gt;Tip Jar&lt;/h2&gt;
+
+&lt;p&gt;If you enjoy these lists, maybe &lt;a href=""https://www.paypal.me/Zelbinian/1""&gt;toss me a buck&lt;/a&gt; now and then. &lt;a href=""https://airtable.com/invite/r/wJL1rj8U""&gt;Signing up for a free AirTable account&lt;/a&gt; via my referral link can help, too. Plus, it&amp;#39;s swell!&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;",True,False,[],False,boardgames,t5_2qmjp,r/boardgames,2245709,public,,self,,,"Kickstarter Roundup: Nov 24, 2019 | 30+ Ending Soon (including: Namiji) &amp; 35+ New This Week (including: Dawn of Madness)",0,61,https://www.reddit.com/r/boardgames/comments/e12yw4/kickstarter_roundup_nov_24_2019_30_ending_soon/,[],,False,all_ads,6
+4,[],True,,,False,kennystetson,,,[],,,,text,t2_w6m5w,False,[],,,False,False,,False,,False,1574622307.0,1574593507.0,,,self.boardgames,0,1574604127.0,0,{},False,False,e0x6x0,False,False,False,False,True,True,False,,,,[],,,dark,text,False,,{},False,,,,[],t3_e0x6x0,False,68,0,,False,all_ads,/r/boardgames/comments/e0x6x0/tainted_grail_howwhen_can_we_buy_if_we_missed_the/,False,,,6,False,,,,False,90,,{},"I did the sensible thing and didn't back the kickstarter before seeing more reviews. Now that it is out and the reviews look amazing, I am super keen on getting this. Will this game ever hit retail? or are they planning on running a second kickstarter?","&lt;!-- SC_OFF --&gt;&lt;div class=""md""&gt;&lt;p&gt;I did the sensible thing and didn&amp;#39;t back the kickstarter before seeing more reviews. Now that it is out and the reviews look amazing, I am super keen on getting this. Will this game ever hit retail? or are they planning on running a second kickstarter?&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;",True,False,[],False,boardgames,t5_2qmjp,r/boardgames,2245709,public,,self,,,Tainted Grail: how/when can we buy if we missed the kickstarter?,0,90,https://www.reddit.com/r/boardgames/comments/e0x6x0/tainted_grail_howwhen_can_we_buy_if_we_missed_the/,[],,False,all_ads,6
+5,[],False,,,False,EndersGame_Reviewer,,,[],,,,text,t2_1k126tck,False,[],,,False,False,,False,,False,1574659809.0,1574631009.0,,,self.boardgames,0,1574635990.0,0,{},False,False,e151xn,False,False,False,False,True,True,False,,,,[],,,dark,text,False,,{},False,,,,[],t3_e151xn,False,10,0,,False,all_ads,/r/boardgames/comments/e151xn/exit_the_game_which_games_in_the_series_are_your/,False,self,"{'images': [{'source': {'url': 'https://external-preview.redd.it/4CwooATCt1T0KSqWvtweM4r3PWjyz3QRDWOZICZjUYI.jpg?auto=webp&amp;s=ab0242b6b852939534be228441287a59ef6609c4', 'width': 1200, 'height': 630}, 'resolutions': [{'url': 'https://external-preview.redd.it/4CwooATCt1T0KSqWvtweM4r3PWjyz3QRDWOZICZjUYI.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=2029a727f3b3289f2c0d6dd4f6c488f71ad50896', 'width': 108, 'height': 56}, {'url': 'https://external-preview.redd.it/4CwooATCt1T0KSqWvtweM4r3PWjyz3QRDWOZICZjUYI.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=bf02f9b4b30b5c02346516f26fa88fd8750ce1cd', 'width': 216, 'height': 113}, {'url': 'https://external-preview.redd.it/4CwooATCt1T0KSqWvtweM4r3PWjyz3QRDWOZICZjUYI.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=0666947b70852ed7de8a083d20d7482428521f03', 'width': 320, 'height': 168}, {'url': 'https://external-preview.redd.it/4CwooATCt1T0KSqWvtweM4r3PWjyz3QRDWOZICZjUYI.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=b0c39403bc2c9d37c7dd8f709bec4599492e790a', 'width': 640, 'height': 336}, {'url': 'https://external-preview.redd.it/4CwooATCt1T0KSqWvtweM4r3PWjyz3QRDWOZICZjUYI.jpg?width=960&amp;crop=smart&amp;auto=webp&amp;s=b6e44c5c6e0be99f0cc7df161d2644120237a0ad', 'width': 960, 'height': 504}, {'url': 'https://external-preview.redd.it/4CwooATCt1T0KSqWvtweM4r3PWjyz3QRDWOZICZjUYI.jpg?width=1080&amp;crop=smart&amp;auto=webp&amp;s=14c6b4905bbd1821ab854e48a68ae64c42a7c583', 'width': 1080, 'height': 567}], 'variants': {}, 'id': 'VeoiDILEHt6m_4d7r16w_qSYq4V61aqotJES3YV5CTU'}], 'enabled': False}",6,False,,,,False,8,,{},"I'd love to get some feedback from those who have tried some games in the [**EXIT: The Game**](https://boardgamegeek.com/boardgamefamily/36963/exit-das-spiel) series, specifically which ones you enjoyed the most, and why.
+
+NB: *I'm new to this particular series, but our family loves escape rooms and is generally quite good at puzzles.  We've done* [*Escape Room: The Game*](https://boardgamegeek.com/boardgame/204836/escape-room-game) *and a couple of the titles in ThinkFun's* [*Escape the Room*](https://boardgamegeek.com/boardgame/193560/escape-room-mystery-stargazers-manor) *series (quite easy), but not tried any of the*  [*Unlock!*](https://boardgamegeek.com/boardgamefamily/39442/unlock) *series or the* [*EXIT: The Game*](https://boardgamegeek.com/boardgamefamily/36963/exit-das-spiel) *series*.","&lt;!-- SC_OFF --&gt;&lt;div class=""md""&gt;&lt;p&gt;I&amp;#39;d love to get some feedback from those who have tried some games in the &lt;a href=""https://boardgamegeek.com/boardgamefamily/36963/exit-das-spiel""&gt;&lt;strong&gt;EXIT: The Game&lt;/strong&gt;&lt;/a&gt; series, specifically which ones you enjoyed the most, and why.&lt;/p&gt;
+
+&lt;p&gt;NB: &lt;em&gt;I&amp;#39;m new to this particular series, but our family loves escape rooms and is generally quite good at puzzles.  We&amp;#39;ve done&lt;/em&gt; &lt;a href=""https://boardgamegeek.com/boardgame/204836/escape-room-game""&gt;&lt;em&gt;Escape Room: The Game&lt;/em&gt;&lt;/a&gt; &lt;em&gt;and a couple of the titles in ThinkFun&amp;#39;s&lt;/em&gt; &lt;a href=""https://boardgamegeek.com/boardgame/193560/escape-room-mystery-stargazers-manor""&gt;&lt;em&gt;Escape the Room&lt;/em&gt;&lt;/a&gt; &lt;em&gt;series (quite easy), but not tried any of the&lt;/em&gt;  &lt;a href=""https://boardgamegeek.com/boardgamefamily/39442/unlock""&gt;&lt;em&gt;Unlock!&lt;/em&gt;&lt;/a&gt; &lt;em&gt;series or the&lt;/em&gt; &lt;a href=""https://boardgamegeek.com/boardgamefamily/36963/exit-das-spiel""&gt;&lt;em&gt;EXIT: The Game&lt;/em&gt;&lt;/a&gt; &lt;em&gt;series&lt;/em&gt;.&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;",True,False,[],False,boardgames,t5_2qmjp,r/boardgames,2245709,public,,self,,,Exit: The Game - which games in the series are your favourites?,0,8,https://www.reddit.com/r/boardgames/comments/e151xn/exit_the_game_which_games_in_the_series_are_your/,[],,False,all_ads,6
+6,[],False,,,False,MrVonDoome,,arctic-scavengers,"[{'e': 'text', 't': 'Arctic Scavengers'}]",,Arctic Scavengers,dark,richtext,t2_ceead,False,[],,,False,False,,False,,False,1574634601.0,1574605801.0,,,self.boardgames,0,False,0,{},False,False,e0z60z,False,False,False,False,True,True,False,,,,[],,,dark,text,False,,{},False,,,,[],t3_e0z60z,False,5,0,,False,all_ads,/r/boardgames/comments/e0z60z/upgraded_my_dune_sand_worm/,False,self,"{'images': [{'source': {'url': 'https://external-preview.redd.it/HPxk7rNK7uPxnLduOTgcSOUt3vxcWmm7bgvMoJ1D4fQ.jpg?auto=webp&amp;s=c2ad9a8a12d5262f7bd14d7fbcceb4ef2ce0559e', 'width': 600, 'height': 315}, 'resolutions': [{'url': 'https://external-preview.redd.it/HPxk7rNK7uPxnLduOTgcSOUt3vxcWmm7bgvMoJ1D4fQ.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=c709719b3f9549c3a2929c1eee6beee88cf60588', 'width': 108, 'height': 56}, {'url': 'https://external-preview.redd.it/HPxk7rNK7uPxnLduOTgcSOUt3vxcWmm7bgvMoJ1D4fQ.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=491679d064d154666f02cc46bb12fad973e64cf1', 'width': 216, 'height': 113}, {'url': 'https://external-preview.redd.it/HPxk7rNK7uPxnLduOTgcSOUt3vxcWmm7bgvMoJ1D4fQ.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=eb41203e16df8912ef8940d4e4454768fe6b8fc3', 'width': 320, 'height': 168}], 'variants': {}, 'id': 'YX34RJmE1IJlY0njSul8CUrhmQDSZG3bDADitLBHvKU'}], 'enabled': False}",6,False,,,,False,27,,{},"I have been excited for this game for a bit but when I got the B&amp;N’s miniatures I was super let down as the worm was my favorite thing in the books. I know there are a few miniatures of the actual worm but I didn’t see them until I picked this one up. This a reaper bones #77006 great worm. Cost 6$ and a little bit of time. I’m happy with the results.
+
+https://imgur.com/gallery/Qw5AGTV","&lt;!-- SC_OFF --&gt;&lt;div class=""md""&gt;&lt;p&gt;I have been excited for this game for a bit but when I got the B&amp;amp;N’s miniatures I was super let down as the worm was my favorite thing in the books. I know there are a few miniatures of the actual worm but I didn’t see them until I picked this one up. This a reaper bones #77006 great worm. Cost 6$ and a little bit of time. I’m happy with the results.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=""https://imgur.com/gallery/Qw5AGTV""&gt;https://imgur.com/gallery/Qw5AGTV&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;",True,False,[],False,boardgames,t5_2qmjp,r/boardgames,2245709,public,,self,,,Upgraded my dune sand worm,0,27,https://www.reddit.com/r/boardgames/comments/e0z60z/upgraded_my_dune_sand_worm/,[],,False,all_ads,6
+7,[],False,,,False,TheRealColdGravy,,,[],,,,text,t2_13n0usn8,False,[],,,False,False,,False,,False,1574623304.0,1574594504.0,,,self.boardgames,0,1574607982.0,0,{},False,False,e0xc0f,False,False,False,False,True,True,False,,#edeff1,,"[{'e': 'text', 't': 'Question'}]",ce696ba0-b792-11e8-9508-0ed1a4fbdca2,Question,dark,richtext,False,,{},False,,,,[],t3_e0xc0f,False,36,0,,False,all_ads,/r/boardgames/comments/e0xc0f/men_at_work_vs_junk_art_better_dexterity_game/,False,,,6,False,,,,False,47,,{},"My FLGS is having a sale, curious what opinions are for those that have played either or both? As a third contender, *Mental* Blocks, but that seems more of a puzzle.","&lt;!-- SC_OFF --&gt;&lt;div class=""md""&gt;&lt;p&gt;My FLGS is having a sale, curious what opinions are for those that have played either or both? As a third contender, &lt;em&gt;Mental&lt;/em&gt; Blocks, but that seems more of a puzzle.&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;",True,False,[],False,boardgames,t5_2qmjp,r/boardgames,2245709,public,,self,,,Men at Work vs. Junk Art - better dexterity game?,0,47,https://www.reddit.com/r/boardgames/comments/e0xc0f/men_at_work_vs_junk_art_better_dexterity_game/,[],,False,all_ads,6
+8,[],True,,,False,momosexualshroom,,,[],,,,text,t2_35pd7hm2,False,[],,,False,False,,False,,False,1574631948.0,1574603148.0,,,self.boardgames,0,False,0,{},False,False,e0yotr,False,False,False,False,True,True,False,,#edeff1,,"[{'e': 'text', 't': 'Question'}]",ce696ba0-b792-11e8-9508-0ed1a4fbdca2,Question,dark,richtext,False,,{},False,,,,[],t3_e0yotr,False,89,0,,False,all_ads,/r/boardgames/comments/e0yotr/finishing_a_game_of_monopoly/,False,,,6,False,,,,False,26,,{},"This might be a redundant question, but any help would be appreciated. So my friends and I started playing Monopoly a few months ago. We follow the rules, but our games seem to last for 3-4 hours and they don't end. We are yet to finish a game properly. We usually lose interest and abandon the game. As per Google, the estimated time for a game of Monopoly is about 2 hours. What are we doing wrong?","&lt;!-- SC_OFF --&gt;&lt;div class=""md""&gt;&lt;p&gt;This might be a redundant question, but any help would be appreciated. So my friends and I started playing Monopoly a few months ago. We follow the rules, but our games seem to last for 3-4 hours and they don&amp;#39;t end. We are yet to finish a game properly. We usually lose interest and abandon the game. As per Google, the estimated time for a game of Monopoly is about 2 hours. What are we doing wrong?&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;",True,False,[],False,boardgames,t5_2qmjp,r/boardgames,2245709,public,,self,,,Finishing a game of Monopoly,0,26,https://www.reddit.com/r/boardgames/comments/e0yotr/finishing_a_game_of_monopoly/,[],,False,all_ads,6
+9,[],False,,,False,nakedmeeple,,ra,"[{'e': 'text', 't': 'RAAAAaaaaa...'}]",684dbf74-18ab-11e7-a5c5-0eac4db4cec8,RAAAAaaaaa...,dark,richtext,t2_gkte5,False,[],,,False,False,,False,,False,1574645174.0,1574616374.0,,,self.boardgames,0,False,0,{},False,False,e11g29,False,False,False,False,True,True,False,,,,[],,,dark,text,False,,{},False,,,,[],t3_e11g29,False,14,0,,False,all_ads,/r/boardgames/comments/e11g29/logistics_games/,False,,,6,False,,,,False,12,,{},"I'm looking to generate some discussion around your favourite production and shipping games. I'm fascinated by games that try to model some aspect of a supply chain. From resource collection to purchasing and production to delivery. There are a lot of games that simulate these things in different ways, but BGG doesn't really have category or family that properly encompasses these games. 
+
+What games do you feel fall into this category and what is it specifically you like (or dislike) about them?","&lt;!-- SC_OFF --&gt;&lt;div class=""md""&gt;&lt;p&gt;I&amp;#39;m looking to generate some discussion around your favourite production and shipping games. I&amp;#39;m fascinated by games that try to model some aspect of a supply chain. From resource collection to purchasing and production to delivery. There are a lot of games that simulate these things in different ways, but BGG doesn&amp;#39;t really have category or family that properly encompasses these games. &lt;/p&gt;
+
+&lt;p&gt;What games do you feel fall into this category and what is it specifically you like (or dislike) about them?&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;",True,False,[],False,boardgames,t5_2qmjp,r/boardgames,2245709,public,,self,,,Logistics games,0,12,https://www.reddit.com/r/boardgames/comments/e11g29/logistics_games/,[],,False,all_ads,6
+10,[],False,,,False,Squirrelhenge,,,[],,,,text,t2_qc5j0,False,[],,,False,False,,False,,False,1574670833.0,1574642033.0,,,self.boardgames,0,False,0,{},False,True,e17rfs,False,False,False,False,True,True,False,,,,[],,,dark,text,False,,{},False,,,,[],t3_e17rfs,False,5,0,,False,all_ads,/r/boardgames/comments/e17rfs/should_i_solo_pandemic_legacy/,False,,,6,False,,,,False,3,,{},"My current situation vis-a-vis work, life, etc., means I don't have a group of local friends to game with, and I won't be able to make my excellent FLGS weekly game night for some months, probably. I've been holding on to Pandemic: Legacy Season 1 (and 2) since it came out and don't see it hitting the table with other people in the forseeable future.
+
+That said, I'm really interested in the game. So, I'm curious if anyone out there has soloed it, and what you thought of the experience. I don't expect it will be as good as a group effort, but is it actually detrimental to try and do it alone? My main concern is how much closed information players usually have -- and whether knowing what all the characters are holding makes it less of a challenge, or if the way the game reveals information can keep the challenge and interest high.
+
+Thanks for any input!","&lt;!-- SC_OFF --&gt;&lt;div class=""md""&gt;&lt;p&gt;My current situation vis-a-vis work, life, etc., means I don&amp;#39;t have a group of local friends to game with, and I won&amp;#39;t be able to make my excellent FLGS weekly game night for some months, probably. I&amp;#39;ve been holding on to Pandemic: Legacy Season 1 (and 2) since it came out and don&amp;#39;t see it hitting the table with other people in the forseeable future.&lt;/p&gt;
+
+&lt;p&gt;That said, I&amp;#39;m really interested in the game. So, I&amp;#39;m curious if anyone out there has soloed it, and what you thought of the experience. I don&amp;#39;t expect it will be as good as a group effort, but is it actually detrimental to try and do it alone? My main concern is how much closed information players usually have -- and whether knowing what all the characters are holding makes it less of a challenge, or if the way the game reveals information can keep the challenge and interest high.&lt;/p&gt;
+
+&lt;p&gt;Thanks for any input!&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;",True,False,[],False,boardgames,t5_2qmjp,r/boardgames,2245709,public,,self,,,Should I solo Pandemic: Legacy?,0,3,https://www.reddit.com/r/boardgames/comments/e17rfs/should_i_solo_pandemic_legacy/,[],,False,all_ads,6
+11,[],False,,,False,umbletheheep,,,[],,,,text,t2_2076laq6,False,[],,,False,False,,False,,False,1574663564.0,1574634764.0,,,self.boardgames,0,False,0,{},False,False,e1611y,False,False,False,False,True,True,False,,,,[],,,dark,text,False,,{},False,,,,[],t3_e1611y,True,0,0,,False,all_ads,/r/boardgames/comments/e1611y/love_diplomacy_theres_a_weekly_email_for_that/,False,self,"{'images': [{'source': {'url': 'https://external-preview.redd.it/mMWgzTD2vy5wyCy8MugtRacRhxKVpwY2IReuu9_pdcU.jpg?auto=webp&amp;s=f858c2d268ac12438b389c00667ab6ff6fac8095', 'width': 3255, 'height': 1887}, 'resolutions': [{'url': 'https://external-preview.redd.it/mMWgzTD2vy5wyCy8MugtRacRhxKVpwY2IReuu9_pdcU.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=ebe68247003b6f5abc61a07eb5e76bcd75080e23', 'width': 108, 'height': 62}, {'url': 'https://external-preview.redd.it/mMWgzTD2vy5wyCy8MugtRacRhxKVpwY2IReuu9_pdcU.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=f62099632a40bd21ed82dac477e317ea38bd65b1', 'width': 216, 'height': 125}, {'url': 'https://external-preview.redd.it/mMWgzTD2vy5wyCy8MugtRacRhxKVpwY2IReuu9_pdcU.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=610b3cc4eb5329b7975cd607770c83a33671ab48', 'width': 320, 'height': 185}, {'url': 'https://external-preview.redd.it/mMWgzTD2vy5wyCy8MugtRacRhxKVpwY2IReuu9_pdcU.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=fa858e879994084762d13ef907c16fb320fcdb30', 'width': 640, 'height': 371}, {'url': 'https://external-preview.redd.it/mMWgzTD2vy5wyCy8MugtRacRhxKVpwY2IReuu9_pdcU.jpg?width=960&amp;crop=smart&amp;auto=webp&amp;s=5a7088806fd23d9dc9516bf7dc52916e8ee2028c', 'width': 960, 'height': 556}, {'url': 'https://external-preview.redd.it/mMWgzTD2vy5wyCy8MugtRacRhxKVpwY2IReuu9_pdcU.jpg?width=1080&amp;crop=smart&amp;auto=webp&amp;s=7c2c98a97f8515c0926ed962116a11c8d6b4e42a', 'width': 1080, 'height': 626}], 'variants': {}, 'id': 'G962X3gD5CSXemGwuro25zpm3pnZ46mtcojnzicrzdk'}], 'enabled': False}",6,False,,,,False,5,,{},"Hey guys. I've started a weekly email for those who love the board game diplomacy. You can see the past issues and subscribe here [http://www.diplomacybriefing.com/](http://www.diplomacybriefing.com/)
+
+The goal is to keep everyone updated on the current events going on across the community both online and the local scene. I'll also be including weekly strategy articles. Very soon I will begin the series on “The Infinity Stones of Manipulation.” Get signed up now. Thanks.","&lt;!-- SC_OFF --&gt;&lt;div class=""md""&gt;&lt;p&gt;Hey guys. I&amp;#39;ve started a weekly email for those who love the board game diplomacy. You can see the past issues and subscribe here &lt;a href=""http://www.diplomacybriefing.com/""&gt;http://www.diplomacybriefing.com/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;The goal is to keep everyone updated on the current events going on across the community both online and the local scene. I&amp;#39;ll also be including weekly strategy articles. Very soon I will begin the series on “The Infinity Stones of Manipulation.” Get signed up now. Thanks.&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;",True,False,[],False,boardgames,t5_2qmjp,r/boardgames,2245709,public,,self,,,Love Diplomacy? There's a Weekly Email for That!,0,5,https://www.reddit.com/r/boardgames/comments/e1611y/love_diplomacy_theres_a_weekly_email_for_that/,[],,False,all_ads,6
+12,[],False,,,False,Jamorrb,,,[],,,,text,t2_kxti9,False,[],,,False,False,,False,,False,1574664444.0,1574635644.0,,,self.boardgames,0,False,0,{},False,False,e169bu,False,False,False,False,True,True,False,,,,[],,,dark,text,False,,{},False,,,,[],t3_e169bu,True,1,0,,False,all_ads,/r/boardgames/comments/e169bu/western_legends_kick_starter_expansion_rules/,False,,,6,False,,,,False,3,,{},"Has anyone had the opportunity to play with the ""PREACHER"" unique event? 
+
+on his card it says when drawing this event place the  preacher event token in a specific location, and it is an action to pick the preacher token up. 
+
+While the token is in your possession his card reads:
+
+""At the end of each turn draw a poker card."" additionally if you end your move at a specific location he gives your some LP rewards.
+
+now it is worded as if at the end of your turn, and every other player's turn you would draw a poker card....seems great....too great. in a 6 player game, if at the end of your turn you discard down you your max hand size - which is 5 - then you draw at the end of every other players turn, and an additional 2 cards at the start of your turn, you are holding 12 cards to do with as you please during your turn. That seems frustratingly powerful.
+
+Is the card intended to only draw a poker card at the end of the controlling players turn, or is it intended to be that busted?
+
+Anyone advice from someone who has experience with this game or specifically this event please let me know.","&lt;!-- SC_OFF --&gt;&lt;div class=""md""&gt;&lt;p&gt;Has anyone had the opportunity to play with the &amp;quot;PREACHER&amp;quot; unique event? &lt;/p&gt;
+
+&lt;p&gt;on his card it says when drawing this event place the  preacher event token in a specific location, and it is an action to pick the preacher token up. &lt;/p&gt;
+
+&lt;p&gt;While the token is in your possession his card reads:&lt;/p&gt;
+
+&lt;p&gt;&amp;quot;At the end of each turn draw a poker card.&amp;quot; additionally if you end your move at a specific location he gives your some LP rewards.&lt;/p&gt;
+
+&lt;p&gt;now it is worded as if at the end of your turn, and every other player&amp;#39;s turn you would draw a poker card....seems great....too great. in a 6 player game, if at the end of your turn you discard down you your max hand size - which is 5 - then you draw at the end of every other players turn, and an additional 2 cards at the start of your turn, you are holding 12 cards to do with as you please during your turn. That seems frustratingly powerful.&lt;/p&gt;
+
+&lt;p&gt;Is the card intended to only draw a poker card at the end of the controlling players turn, or is it intended to be that busted?&lt;/p&gt;
+
+&lt;p&gt;Anyone advice from someone who has experience with this game or specifically this event please let me know.&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;",True,False,[],False,boardgames,t5_2qmjp,r/boardgames,2245709,public,,self,,,Western Legends: Kick starter expansion rules question.,0,3,https://www.reddit.com/r/boardgames/comments/e169bu/western_legends_kick_starter_expansion_rules/,[],,False,all_ads,6
+13,[],False,,,False,prtytmxcllnt,,,[],,,,text,t2_4dmiqgg,False,[],,,False,False,,False,,False,1574561326.0,1574532526.0,,,self.boardgames,0,False,0,{},False,False,e0ljzd,False,False,False,False,True,True,False,,#edeff1,,"[{'e': 'text', 't': 'Question'}]",ce696ba0-b792-11e8-9508-0ed1a4fbdca2,Question,dark,richtext,False,,{},False,,,,[],t3_e0ljzd,False,166,0,,False,all_ads,/r/boardgames/comments/e0ljzd/new_devs_that_spent_1700_to_show_indie_game_at_a/,False,,,6,False,,,,False,446,,{},We’re new indie board game developers. We just did our first local con and it cost us $1700. We’re looking for more cost-effective ways to show people our game and we thought making a YouTube channel could help with building a community. We just finished our first video but are quickly finding out that this process can get bigger than the actual game itself. What are some other ways we can gain a following without having to become personalities?,"&lt;!-- SC_OFF --&gt;&lt;div class=""md""&gt;&lt;p&gt;We’re new indie board game developers. We just did our first local con and it cost us $1700. We’re looking for more cost-effective ways to show people our game and we thought making a YouTube channel could help with building a community. We just finished our first video but are quickly finding out that this process can get bigger than the actual game itself. What are some other ways we can gain a following without having to become personalities?&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;",True,False,[],False,boardgames,t5_2qmjp,r/boardgames,2245709,public,,self,,,New devs that spent $1700 to show indie game at a local convention. Are we doing this right?,0,446,https://www.reddit.com/r/boardgames/comments/e0ljzd/new_devs_that_spent_1700_to_show_indie_game_at_a/,[],,False,all_ads,6
+14,[],False,,,False,Retrobrek,,,[],,,,text,t2_2c7dwyeb,False,[],,,False,False,,False,,False,1574665145.0,1574636345.0,,,self.boardgames,0,False,0,{},False,False,e16frc,False,False,False,False,True,True,False,,,,[],,,dark,text,False,,{},False,,,,[],t3_e16frc,True,5,0,,False,all_ads,/r/boardgames/comments/e16frc/senitnels_of_the_multiverse_starter_tips/,False,,,6,False,,,,False,2,,{},"Hi everyone,
+
+Tried SOTM today with my wife - and it was a bit of a disaster. We only played with two heroes - but it all felt a bit overwhelming. Not as much for me, but for her.
+
+Any tips for introducing her to this? Certain heroes or villains to choose or avoid?","&lt;!-- SC_OFF --&gt;&lt;div class=""md""&gt;&lt;p&gt;Hi everyone,&lt;/p&gt;
+
+&lt;p&gt;Tried SOTM today with my wife - and it was a bit of a disaster. We only played with two heroes - but it all felt a bit overwhelming. Not as much for me, but for her.&lt;/p&gt;
+
+&lt;p&gt;Any tips for introducing her to this? Certain heroes or villains to choose or avoid?&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;",True,False,[],False,boardgames,t5_2qmjp,r/boardgames,2245709,public,,self,,,Senitnels of the Multiverse starter tips,0,2,https://www.reddit.com/r/boardgames/comments/e16frc/senitnels_of_the_multiverse_starter_tips/,[],,False,all_ads,6
+15,[],False,,,False,Winged_Mr_Hotdog,,,[],,,,text,t2_1yzrn9dv,False,[],,,False,False,,False,,False,1574651524.0,1574622724.0,,,self.boardgames,0,False,0,{},False,False,e12zgd,False,False,False,False,True,True,False,,#edeff1,,"[{'e': 'text', 't': 'Question'}]",ce696ba0-b792-11e8-9508-0ed1a4fbdca2,Question,dark,richtext,False,,{},False,,,,[],t3_e12zgd,True,11,0,,False,all_ads,/r/boardgames/comments/e12zgd/heroquest_classic/,False,,,6,False,,,,False,6,,{},"I just received wave 3 of Dark souls which is awesome. This lead me to look at Heroquest Classic which I have not for sometime. I fully believe this was a bad life choice and have already said good buy to that money. 
+
+That being said this thing is dead and was a scam right?","&lt;!-- SC_OFF --&gt;&lt;div class=""md""&gt;&lt;p&gt;I just received wave 3 of Dark souls which is awesome. This lead me to look at Heroquest Classic which I have not for sometime. I fully believe this was a bad life choice and have already said good buy to that money. &lt;/p&gt;
+
+&lt;p&gt;That being said this thing is dead and was a scam right?&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;",True,False,[],False,boardgames,t5_2qmjp,r/boardgames,2245709,public,,self,,,Heroquest classic,0,6,https://www.reddit.com/r/boardgames/comments/e12zgd/heroquest_classic/,[],,False,all_ads,6
+16,[],False,,,False,BrutalBarracuda,,,[],,,,text,t2_d6chn,False,[],,,False,False,,False,,False,1574673031.0,1574644231.0,,,self.boardgames,0,1574644909.0,0,{},False,True,e188zv,False,False,False,False,True,True,False,,#edeff1,,"[{'e': 'text', 't': 'Question'}]",ce696ba0-b792-11e8-9508-0ed1a4fbdca2,Question,dark,richtext,False,,{},False,,,,[],t3_e188zv,True,1,0,,False,all_ads,/r/boardgames/comments/e188zv/finding_out_who_owns_an_old_ip/,False,,,6,False,,,,False,1,,{},"Does anyone know if there is an easy way to locate the owner of an old IP? I'm designing a small card game based on a 26 year old IP and need to find out who owns it.
+Any help is appreciated 👍","&lt;!-- SC_OFF --&gt;&lt;div class=""md""&gt;&lt;p&gt;Does anyone know if there is an easy way to locate the owner of an old IP? I&amp;#39;m designing a small card game based on a 26 year old IP and need to find out who owns it.
+Any help is appreciated 👍&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;",True,False,[],False,boardgames,t5_2qmjp,r/boardgames,2245709,public,,self,,,Finding out who owns an old IP.,0,1,https://www.reddit.com/r/boardgames/comments/e188zv/finding_out_who_owns_an_old_ip/,[],,False,all_ads,6
+17,[],False,,,False,xMulanWatcher19x,,,[],,,,text,t2_z4mj9,False,[],,,False,False,,False,,False,1574672775.0,1574643975.0,,,self.boardgames,0,False,0,{},False,True,e186wr,False,False,False,False,True,True,False,,,,[],,,dark,text,False,,{},False,,,,[],t3_e186wr,True,0,0,,False,all_ads,/r/boardgames/comments/e186wr/betrayal_at_baldurs_gate_attacking_and_dying/,False,,,6,False,,,,False,1,,{},"Just had a game of Betrayal at Baldur's Gate and we had a situation where a character died during the attack by using the gamblers dice to re-roll a 0, lo and behold they got another 0 which means they took damage enough to kill them.
+For this game we ruled it as a trade but I was just wondering if anyone else knows if there is an official thing for this or if they would rule it differently.","&lt;!-- SC_OFF --&gt;&lt;div class=""md""&gt;&lt;p&gt;Just had a game of Betrayal at Baldur&amp;#39;s Gate and we had a situation where a character died during the attack by using the gamblers dice to re-roll a 0, lo and behold they got another 0 which means they took damage enough to kill them.
+For this game we ruled it as a trade but I was just wondering if anyone else knows if there is an official thing for this or if they would rule it differently.&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;",True,False,[],False,boardgames,t5_2qmjp,r/boardgames,2245709,public,,self,,,Betrayal at Baldur's Gate: Attacking and dying during the attack,0,1,https://www.reddit.com/r/boardgames/comments/e186wr/betrayal_at_baldurs_gate_attacking_and_dying/,[],,False,all_ads,6
+18,[],False,,,False,OpenHeartWound,,,[],,,,text,t2_2evhv3je,False,[],,,False,False,,False,,False,1574671295.0,1574642495.0,,,self.boardgames,0,False,0,{},False,True,e17v85,False,False,False,False,True,True,False,,,rules,"[{'e': 'text', 't': 'Rules'}]",e048502e-709a-11e7-9f79-0e36a8135aee,Rules,dark,richtext,False,,{},False,,,,[],t3_e17v85,True,1,0,,False,all_ads,/r/boardgames/comments/e17v85/monopoly_deal_rule_question/,False,,,6,False,,,,False,0,,{},"In Monopoly Deal can you take a Property Wild Card with a Sly Deal or a Forced Deal card?
+
+The Property Wild Card is not properly by itself and has no monitory value so you can't lose it with rent it debt cards. Is it wild card or a property card? The Sly Deal and Forced Deal clearly say it is for a property transfer.","&lt;!-- SC_OFF --&gt;&lt;div class=""md""&gt;&lt;p&gt;In Monopoly Deal can you take a Property Wild Card with a Sly Deal or a Forced Deal card?&lt;/p&gt;
+
+&lt;p&gt;The Property Wild Card is not properly by itself and has no monitory value so you can&amp;#39;t lose it with rent it debt cards. Is it wild card or a property card? The Sly Deal and Forced Deal clearly say it is for a property transfer.&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;",True,False,[],False,boardgames,t5_2qmjp,r/boardgames,2245709,public,,self,,,Monopoly Deal rule question,0,0,https://www.reddit.com/r/boardgames/comments/e17v85/monopoly_deal_rule_question/,[],,False,all_ads,6
+19,[],False,,,False,futureNOW_,,,[],,,,text,t2_6qitu,False,[],,,False,False,,False,,False,1574670029.0,1574641229.0,,,self.boardgames,0,False,0,{},False,True,e17kok,False,False,False,False,True,True,False,,,,[],,,dark,text,False,,{},False,,,,[],t3_e17kok,True,0,0,,False,all_ads,/r/boardgames/comments/e17kok/medieval_academy_rules_questions/,False,,,6,False,,,,False,1,,{},"I don't see much about Medieval Academy on here. It's always been a fun game to introduce to new comers, but every time I play it there are a few rules questions I'm always iffy about. We generally decided on how to play some of this, but I was wondering if anyone could provide some insight or generally accepted rules interpretations.     
+   
+Black Knight vs. White Knight.    
+1) On the cup track, does the cup stop at the last cup symbol, or the symbol of the Knight (where I would place the cup on the Knight symbol itself)?   
+2) If I play a disc that goes beyond the Black Knight track, does it stop at the end, continue at the beginning of the Black Knight track in which I will stack a disc, or continue on to the White Knight track?    
+3) If using the Phase 5 reset advanced rule, does that also apply when the Black vs. White Knight variant or do all the disc go to zero as the variant states?","&lt;!-- SC_OFF --&gt;&lt;div class=""md""&gt;&lt;p&gt;I don&amp;#39;t see much about Medieval Academy on here. It&amp;#39;s always been a fun game to introduce to new comers, but every time I play it there are a few rules questions I&amp;#39;m always iffy about. We generally decided on how to play some of this, but I was wondering if anyone could provide some insight or generally accepted rules interpretations.     &lt;/p&gt;
+
+&lt;p&gt;Black Knight vs. White Knight.&lt;br/&gt;
+1) On the cup track, does the cup stop at the last cup symbol, or the symbol of the Knight (where I would place the cup on the Knight symbol itself)?&lt;br/&gt;
+2) If I play a disc that goes beyond the Black Knight track, does it stop at the end, continue at the beginning of the Black Knight track in which I will stack a disc, or continue on to the White Knight track?&lt;br/&gt;
+3) If using the Phase 5 reset advanced rule, does that also apply when the Black vs. White Knight variant or do all the disc go to zero as the variant states?&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;",True,False,[],False,boardgames,t5_2qmjp,r/boardgames,2245709,public,,self,,,Medieval Academy - Rules Questions,0,1,https://www.reddit.com/r/boardgames/comments/e17kok/medieval_academy_rules_questions/,[],,False,all_ads,6
+20,[],False,,,False,EndersGame_Reviewer,,,[],,,,text,t2_1k126tck,False,[],,,False,False,,False,,False,1574634307.0,1574605507.0,,,self.boardgames,0,False,0,{},False,False,e0z42w,False,False,False,False,True,True,False,,,review,"[{'e': 'text', 't': 'Review'}]",9beed2b0-4636-11e2-af77-12313b0ce1e2,Review,dark,richtext,False,,{},False,,,,[],t3_e0z42w,False,0,0,,False,all_ads,/r/boardgames/comments/e0z42w/impressions_of_mod_x_tictactoe_and_connect_four/,False,,,6,False,,,,False,5,,{},"When I heard about an abstract game that is somewhat reminiscent of the classics Tic-Tac-Toe and Connect Four, that was a more modern take with high quality components, I was immediately convinced of its potential. That game is [**MOD X**](https://boardgamegeek.com/boardgame/131387/mod-x), a 2-4 player abstract that was designed by Joan and Mark Wilkinson, and first published in 2012 by Cryptozoic Entertainment.
+
+**Overview**
+
+In this game, players take turns placing large plastic Xs in their colour (red, orange, yellow, or black) into the places of an 8x8 grid.  The goal is to create a pattern consisting of five Xs in a particular pattern, such as an X, a plus sign, or a straight line (horizontally, vertically, or diagonally).  This lets you place a scoring token in those places, and your Xs are then removed and the game continues.  But there are some more twists, including the use of Joker Xs, and the ability to steal scoring tokens from others by creating a scoring pattern over them. Can you make the strategic and tactical choices required to get the highest score?
+
+**Impressions**
+
+So is MOD X for you? If you're a fan of abstracts, and enjoy the challenge of a relatively straight forward rule-set with clever play, then you should take a closer look at this one.
+
+The basic concepts are quite familiar from games like Tic-Tac-Toe and Connect Four, which actually makes this game easier to learn and teach to newbies. But don't make the mistake of thinking that this belongs in a similar category, because it has a few other interesting things going on, without burdening the game-play with too much complexity. The use of scoring tokens and Jokers aren't complicated as such, and yet their addition adds welcome wrinkles to more traditional style of game-play. The fact that this plays just as well with 3 or 4 players as it does with just 2 players, is also a real strength, considering that many abstracts are geared to two-players only.
+
+MOD X isn't a game that will set the gaming industry alight with excitement, but it is a solid and enjoyable abstract that will prove satisfying to many who enjoy the genre.
+
+ ***Where to get it?*** *Mod X is available from the publisher Cryptozoic Entertainment (*[*here*](https://store.cryptozoic.com/MOD-X-Game-p/modx-game.htm)*)*.","&lt;!-- SC_OFF --&gt;&lt;div class=""md""&gt;&lt;p&gt;When I heard about an abstract game that is somewhat reminiscent of the classics Tic-Tac-Toe and Connect Four, that was a more modern take with high quality components, I was immediately convinced of its potential. That game is &lt;a href=""https://boardgamegeek.com/boardgame/131387/mod-x""&gt;&lt;strong&gt;MOD X&lt;/strong&gt;&lt;/a&gt;, a 2-4 player abstract that was designed by Joan and Mark Wilkinson, and first published in 2012 by Cryptozoic Entertainment.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Overview&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;In this game, players take turns placing large plastic Xs in their colour (red, orange, yellow, or black) into the places of an 8x8 grid.  The goal is to create a pattern consisting of five Xs in a particular pattern, such as an X, a plus sign, or a straight line (horizontally, vertically, or diagonally).  This lets you place a scoring token in those places, and your Xs are then removed and the game continues.  But there are some more twists, including the use of Joker Xs, and the ability to steal scoring tokens from others by creating a scoring pattern over them. Can you make the strategic and tactical choices required to get the highest score?&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Impressions&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;So is MOD X for you? If you&amp;#39;re a fan of abstracts, and enjoy the challenge of a relatively straight forward rule-set with clever play, then you should take a closer look at this one.&lt;/p&gt;
+
+&lt;p&gt;The basic concepts are quite familiar from games like Tic-Tac-Toe and Connect Four, which actually makes this game easier to learn and teach to newbies. But don&amp;#39;t make the mistake of thinking that this belongs in a similar category, because it has a few other interesting things going on, without burdening the game-play with too much complexity. The use of scoring tokens and Jokers aren&amp;#39;t complicated as such, and yet their addition adds welcome wrinkles to more traditional style of game-play. The fact that this plays just as well with 3 or 4 players as it does with just 2 players, is also a real strength, considering that many abstracts are geared to two-players only.&lt;/p&gt;
+
+&lt;p&gt;MOD X isn&amp;#39;t a game that will set the gaming industry alight with excitement, but it is a solid and enjoyable abstract that will prove satisfying to many who enjoy the genre.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Where to get it?&lt;/em&gt;&lt;/strong&gt; &lt;em&gt;Mod X is available from the publisher Cryptozoic Entertainment (&lt;/em&gt;&lt;a href=""https://store.cryptozoic.com/MOD-X-Game-p/modx-game.htm""&gt;&lt;em&gt;here&lt;/em&gt;&lt;/a&gt;&lt;em&gt;)&lt;/em&gt;.&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;",True,False,[],False,boardgames,t5_2qmjp,r/boardgames,2245709,public,,self,,,Impressions of MOD X - Tic-Tac-Toe and Connect Four grew up and had a baby,0,5,https://www.reddit.com/r/boardgames/comments/e0z42w/impressions_of_mod_x_tictactoe_and_connect_four/,[],,False,all_ads,6
+21,[],False,,,False,INTHEMIDSTOFLIONS,,,[],,,,text,t2_eb2ez,False,[],,,False,False,,False,,False,1574655464.0,1574626664.0,,,self.boardgames,0,False,0,{},False,False,e13ydm,False,False,False,False,True,True,False,,,,[],,,dark,text,False,,{},False,,,,[],t3_e13ydm,False,5,0,,False,all_ads,/r/boardgames/comments/e13ydm/big_thanks_to_whoever_recommended_wingspan/,False,,,6,False,,,,False,4,,{},"Hey y’all. Saw someone review wingspan automa a week or so ago and had been eyeballing it! Price fluctuates so much with it. Our LBGS was sold out, got it in stock and I picked one up last night. They’re almost sold out now. 
+
+The game was super fun! I can tell I’m getting older because I care far less about violent games and I’m super into games like WingSpan, Parks, Pandemic, Spirit Island, etc. 
+
+I had a blast so thanks to this sub for recommending it. We picked up our copy and out of the 5 of us we had no idea what we were doing. After stumbling through the instructions we finished the game in just under 4 hours lol. 
+
+Game should take maybe an hour but we were starting fresh.
+
+I’ve seen some complaints that it’s similar to solitaire or just not enough player interaction, but honestly you could say that about any game you play. 
+
+I really enjoyed it. The birds were beautifully drawn. The themes is new and original: it’s my first real bonafide Euro to own and play. 
+
+I don’t think I have any other euro but if I do please correct me: Pandemic, t2r, or key to the kingdom might be? Idk I’m dumb.
+
+Thanks! :)","&lt;!-- SC_OFF --&gt;&lt;div class=""md""&gt;&lt;p&gt;Hey y’all. Saw someone review wingspan automa a week or so ago and had been eyeballing it! Price fluctuates so much with it. Our LBGS was sold out, got it in stock and I picked one up last night. They’re almost sold out now. &lt;/p&gt;
+
+&lt;p&gt;The game was super fun! I can tell I’m getting older because I care far less about violent games and I’m super into games like WingSpan, Parks, Pandemic, Spirit Island, etc. &lt;/p&gt;
+
+&lt;p&gt;I had a blast so thanks to this sub for recommending it. We picked up our copy and out of the 5 of us we had no idea what we were doing. After stumbling through the instructions we finished the game in just under 4 hours lol. &lt;/p&gt;
+
+&lt;p&gt;Game should take maybe an hour but we were starting fresh.&lt;/p&gt;
+
+&lt;p&gt;I’ve seen some complaints that it’s similar to solitaire or just not enough player interaction, but honestly you could say that about any game you play. &lt;/p&gt;
+
+&lt;p&gt;I really enjoyed it. The birds were beautifully drawn. The themes is new and original: it’s my first real bonafide Euro to own and play. &lt;/p&gt;
+
+&lt;p&gt;I don’t think I have any other euro but if I do please correct me: Pandemic, t2r, or key to the kingdom might be? Idk I’m dumb.&lt;/p&gt;
+
+&lt;p&gt;Thanks! :)&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;",True,False,[],False,boardgames,t5_2qmjp,r/boardgames,2245709,public,,self,,,Big thanks to whoever recommended WINGSPAN!!,0,4,https://www.reddit.com/r/boardgames/comments/e13ydm/big_thanks_to_whoever_recommended_wingspan/,[],,False,all_ads,6
+22,[],False,,,False,hearsman,,,[],,,,text,t2_et7f2,False,[],,,False,False,,False,,False,1574579708.0,1574550908.0,,,self.boardgames,0,False,0,{},False,False,e0pwkg,False,False,False,False,True,True,False,,,,[],,,dark,text,False,,{},False,,,,[],t3_e0pwkg,False,35,0,,False,all_ads,/r/boardgames/comments/e0pwkg/tainted_grail_first_impressions/,False,,,6,False,,,,False,90,,{},"First, some background. I’m not a very experienced boardgamer, but am interested. I’ve not played many of the “must plays” so I apologise if any of the game mechanics I describe have been done elsewhere, and welcome recommendations for similar. That being said, here we go!
+
+So, there I was, just after Christmas 2018, browsing Kickstarter for any interesting projects, when I saw what looked like an awesome concept. The game used cards as an explorable map, new cards revealing as you progress. Combat was also dealt with through cards, a rather interesting “chaining” mechanic. There was also a diplomacy option too. Finally, these mechanics seemed to be wrapped into a detailed branching story based on a twisted version of Arthurian legend. I... was... sold.
+
+Fast forward less than 11 months and I receive my copy of Tainted Grail, Fall of Avalon by Awaken Realms. 
+
+I have just completed the first chapter of the game (1.5 hours ish) in solo mode (the game supports 1-4 players in co-op). All I can say is wow! Having played Gloomhaven and found it very heavy to setup with an awful lot of maintenance involved, this has been a breath of fresh air.
+
+The game is more role play/exploration oriented, while the combat is quick and simple to understand, with the right difficulty in places. 
+
+First, the story (spoiler free). The game is set in Avalon, an area from Arthurian legend. The world is falling apart, beset by the enigmatic “wyrdness”. The best heroes set out to find help to battle these dark forces. They do not return. It is up to you to save your home. 
+
+That is the basic premise of the story, which is developed through a choose your own adventure exploration journal. As you explore different areas, options are presented to you on how you wish to proceed. Will you delve into some barrows? Steal a smiths hammer? Talk to the locals? All these options present different outcomes, and some can have a lasting impact on the game as you move forward.
+
+Next, combat and diplomacy. As you explore you will encounter various challenges in the form of combat and diplomacy cards. The basic premise for each of these is the same, to chain a series of cards over one or more turns, in order to meet the victory conditions. It sounds simple but is often far from easy.
+
+Finally, quality of the product. This game comes with hundreds of cards, all feeling wonderful quality. The artwork is insanely good, bringing the right tone and feel to the game. Also included are 8 figurines, including 3 giant “Menhir” statues. These figures are a heavy duty plastic, feel well made, and look excellent. To top it off, the game has excellent storage trays, so no need for anything else other than what’s in the box (I’m looking at you gloomhaven).
+
+Conclusion
+
+This review does not do the game justice. It is quite simply the best board game that I have played. I strongly recommend to anyone who enjoys RPGs, exploration games, and story heavy games. I don’t think you’ll be disappointed.
+
+If anyone has questions, happy to try to answer. I will try to upload further impressions as I get more play time. 
+
+Thanks for reading!","&lt;!-- SC_OFF --&gt;&lt;div class=""md""&gt;&lt;p&gt;First, some background. I’m not a very experienced boardgamer, but am interested. I’ve not played many of the “must plays” so I apologise if any of the game mechanics I describe have been done elsewhere, and welcome recommendations for similar. That being said, here we go!&lt;/p&gt;
+
+&lt;p&gt;So, there I was, just after Christmas 2018, browsing Kickstarter for any interesting projects, when I saw what looked like an awesome concept. The game used cards as an explorable map, new cards revealing as you progress. Combat was also dealt with through cards, a rather interesting “chaining” mechanic. There was also a diplomacy option too. Finally, these mechanics seemed to be wrapped into a detailed branching story based on a twisted version of Arthurian legend. I... was... sold.&lt;/p&gt;
+
+&lt;p&gt;Fast forward less than 11 months and I receive my copy of Tainted Grail, Fall of Avalon by Awaken Realms. &lt;/p&gt;
+
+&lt;p&gt;I have just completed the first chapter of the game (1.5 hours ish) in solo mode (the game supports 1-4 players in co-op). All I can say is wow! Having played Gloomhaven and found it very heavy to setup with an awful lot of maintenance involved, this has been a breath of fresh air.&lt;/p&gt;
+
+&lt;p&gt;The game is more role play/exploration oriented, while the combat is quick and simple to understand, with the right difficulty in places. &lt;/p&gt;
+
+&lt;p&gt;First, the story (spoiler free). The game is set in Avalon, an area from Arthurian legend. The world is falling apart, beset by the enigmatic “wyrdness”. The best heroes set out to find help to battle these dark forces. They do not return. It is up to you to save your home. &lt;/p&gt;
+
+&lt;p&gt;That is the basic premise of the story, which is developed through a choose your own adventure exploration journal. As you explore different areas, options are presented to you on how you wish to proceed. Will you delve into some barrows? Steal a smiths hammer? Talk to the locals? All these options present different outcomes, and some can have a lasting impact on the game as you move forward.&lt;/p&gt;
+
+&lt;p&gt;Next, combat and diplomacy. As you explore you will encounter various challenges in the form of combat and diplomacy cards. The basic premise for each of these is the same, to chain a series of cards over one or more turns, in order to meet the victory conditions. It sounds simple but is often far from easy.&lt;/p&gt;
+
+&lt;p&gt;Finally, quality of the product. This game comes with hundreds of cards, all feeling wonderful quality. The artwork is insanely good, bringing the right tone and feel to the game. Also included are 8 figurines, including 3 giant “Menhir” statues. These figures are a heavy duty plastic, feel well made, and look excellent. To top it off, the game has excellent storage trays, so no need for anything else other than what’s in the box (I’m looking at you gloomhaven).&lt;/p&gt;
+
+&lt;p&gt;Conclusion&lt;/p&gt;
+
+&lt;p&gt;This review does not do the game justice. It is quite simply the best board game that I have played. I strongly recommend to anyone who enjoys RPGs, exploration games, and story heavy games. I don’t think you’ll be disappointed.&lt;/p&gt;
+
+&lt;p&gt;If anyone has questions, happy to try to answer. I will try to upload further impressions as I get more play time. &lt;/p&gt;
+
+&lt;p&gt;Thanks for reading!&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;",True,False,[],False,boardgames,t5_2qmjp,r/boardgames,2245709,public,,self,,,Tainted Grail - first impressions,0,90,https://www.reddit.com/r/boardgames/comments/e0pwkg/tainted_grail_first_impressions/,[],,False,all_ads,6
+23,[],True,,,False,escargotcultist,,gloomhaven,"[{'e': 'text', 't': 'Gloomhaven'}]",c63d6e78-18aa-11e7-9922-0ef608c792b0,Gloomhaven,dark,richtext,t2_15yxaz,False,[],,,False,False,,False,,False,1574629238.0,1574600438.0,,,self.boardgames,0,False,0,{},False,False,e0y8iw,False,False,False,False,True,True,False,,,,[],,,dark,text,False,,{},False,,,,[],t3_e0y8iw,False,8,0,,False,all_ads,/r/boardgames/comments/e0y8iw/thoughts_on_kings_dilemma/,False,,,6,False,,,,False,8,,{},Looks pretty fun and I have a consistent group of five but would love some impressions from folks who have it before I pull trigger.,"&lt;!-- SC_OFF --&gt;&lt;div class=""md""&gt;&lt;p&gt;Looks pretty fun and I have a consistent group of five but would love some impressions from folks who have it before I pull trigger.&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;",True,False,[],False,boardgames,t5_2qmjp,r/boardgames,2245709,public,,self,,,Thoughts on King's Dilemma?,0,8,https://www.reddit.com/r/boardgames/comments/e0y8iw/thoughts_on_kings_dilemma/,[],,False,all_ads,6
+24,[],False,,,False,ags_rule,,,[],,,,text,t2_e3ghnqv,False,[],,,False,False,,False,,False,1574645330.0,1574616530.0,,,self.boardgames,0,False,0,{},False,False,e11hg0,False,False,False,False,True,True,False,,,,[],,,dark,text,False,,{},False,,,,[],t3_e11hg0,False,2,0,,False,all_ads,/r/boardgames/comments/e11hg0/thoughts_on_cast_quest/,False,,,6,False,,,,False,3,,{},This is £8 (half price) on Amazon for Black Friday but there's very little on it online. It has good Amazon reviews but many things do! Boardgamegeek only has two ratings and one review. What about here?,"&lt;!-- SC_OFF --&gt;&lt;div class=""md""&gt;&lt;p&gt;This is £8 (half price) on Amazon for Black Friday but there&amp;#39;s very little on it online. It has good Amazon reviews but many things do! Boardgamegeek only has two ratings and one review. What about here?&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;",True,False,[],False,boardgames,t5_2qmjp,r/boardgames,2245709,public,,self,,,Thoughts on Cast Quest?,0,3,https://www.reddit.com/r/boardgames/comments/e11hg0/thoughts_on_cast_quest/,[],,False,all_ads,6
+25,[],False,,,False,mua_rice,,,[],,,,text,t2_14gf5v,False,[],,,False,False,,False,,False,1574614359.0,1574585559.0,,,self.boardgames,0,False,0,{},False,False,e0w4qi,False,False,False,False,True,True,False,,#edeff1,,"[{'e': 'text', 't': 'Question'}]",ce696ba0-b792-11e8-9508-0ed1a4fbdca2,Question,dark,richtext,False,,{},False,,,,[],t3_e0w4qi,False,17,0,,False,all_ads,/r/boardgames/comments/e0w4qi/inis_anticlimatic_endings/,False,,,6,False,,,,False,13,,{},"Hi all! Yesterday we played Inis + expansion and (3p) it was supercool. However, I gathered two deed and was present in three areas. In that round, there was an epic battle between my two opponents, leaving them without any action cards. 
+
+I had all my cards in hand, so I could simply use exploration, take a pretender token and win. Nothin they could do about it. 
+
+A game ending like this happened before, pretty anticlimatic. Are we playing it wrong, maybe?
+
+Any thoughts? Curious to hear what you think","&lt;!-- SC_OFF --&gt;&lt;div class=""md""&gt;&lt;p&gt;Hi all! Yesterday we played Inis + expansion and (3p) it was supercool. However, I gathered two deed and was present in three areas. In that round, there was an epic battle between my two opponents, leaving them without any action cards. &lt;/p&gt;
+
+&lt;p&gt;I had all my cards in hand, so I could simply use exploration, take a pretender token and win. Nothin they could do about it. &lt;/p&gt;
+
+&lt;p&gt;A game ending like this happened before, pretty anticlimatic. Are we playing it wrong, maybe?&lt;/p&gt;
+
+&lt;p&gt;Any thoughts? Curious to hear what you think&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;",True,False,[],False,boardgames,t5_2qmjp,r/boardgames,2245709,public,,self,,,Inis: anticlimatic endings,0,13,https://www.reddit.com/r/boardgames/comments/e0w4qi/inis_anticlimatic_endings/,[],,False,all_ads,6
+26,[],False,,,False,ScaredyDave,,kingdom-death-monster,"[{'e': 'text', 't': 'Kingdom Death Monster'}]",05076ca8-18ab-11e7-9a32-0e882b544e42,Kingdom Death Monster,dark,richtext,t2_la3z3,False,[],,,False,False,,False,,False,1574607287.0,1574578487.0,,,self.boardgames,0,False,0,{},False,False,e0v5z3,False,False,False,False,True,True,False,,,,[],,,dark,text,False,,{},False,,,,[],t3_e0v5z3,False,11,0,,False,all_ads,/r/boardgames/comments/e0v5z3/cthulhu_death_may_die_tips/,False,,,6,False,,,,False,19,,{},"Hey there!
+
+I recently bought Cthulhu: Death May Die off EBay with all the Kickstarter stuff (not the giant Cthulhu but the other stuff)
+
+So far I’ve played Scenario 1 on solo twice and lost both times. 
+
+First time, played as Ernest Hemingway and Al Capone, I died after the elder god (Hastur) ritual was disrupted, but while I got the spell disrupted quickly, I did a bad job mitigating fire and monsters, was murdered by a mob pretty quick haha.
+
+Second time, played as Al Capone and Maxim Grey, I played against Cthulhu instead, didn’t even disrupt the ritual, JUST BARELY missed it but one guy went insane the literal turn before. I was trying to get Al pretty crazy but went a bit too far too quick with it haha.
+
+
+Just curious if any other C:DMD solo players have some tips. I’ve only played twice so I’m still learning good techniques and what to watch out for. I’m really digging it so far! Just wish I wasn’t... losing all the time haha.","&lt;!-- SC_OFF --&gt;&lt;div class=""md""&gt;&lt;p&gt;Hey there!&lt;/p&gt;
+
+&lt;p&gt;I recently bought Cthulhu: Death May Die off EBay with all the Kickstarter stuff (not the giant Cthulhu but the other stuff)&lt;/p&gt;
+
+&lt;p&gt;So far I’ve played Scenario 1 on solo twice and lost both times. &lt;/p&gt;
+
+&lt;p&gt;First time, played as Ernest Hemingway and Al Capone, I died after the elder god (Hastur) ritual was disrupted, but while I got the spell disrupted quickly, I did a bad job mitigating fire and monsters, was murdered by a mob pretty quick haha.&lt;/p&gt;
+
+&lt;p&gt;Second time, played as Al Capone and Maxim Grey, I played against Cthulhu instead, didn’t even disrupt the ritual, JUST BARELY missed it but one guy went insane the literal turn before. I was trying to get Al pretty crazy but went a bit too far too quick with it haha.&lt;/p&gt;
+
+&lt;p&gt;Just curious if any other C:DMD solo players have some tips. I’ve only played twice so I’m still learning good techniques and what to watch out for. I’m really digging it so far! Just wish I wasn’t... losing all the time haha.&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;",True,False,[],False,boardgames,t5_2qmjp,r/boardgames,2245709,public,,self,,,Cthulhu: Death May Die Tips?,0,19,https://www.reddit.com/r/boardgames/comments/e0v5z3/cthulhu_death_may_die_tips/,[],,False,all_ads,6
